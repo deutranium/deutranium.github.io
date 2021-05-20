@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>outreachy on Kshitijaa Jaglan</title>
+    <link>https://example.com/tags/outreachy/</link>
+    <description>Recent content in outreachy on Kshitijaa Jaglan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 19 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/outreachy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Outreachy: Introduce Yourself</title>
+      <link>https://example.com/posts/outreachy-introduce-yourself/</link>
+      <pubDate>Wed, 19 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/outreachy-introduce-yourself/</guid>
+      <description>&lt;p&gt;First blog post for Outreachy - introducing myself&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
