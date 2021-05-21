@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>open source on Kshitijaa Jaglan</title>
-    <link>https://example.com/tags/open-source/</link>
+    <link>/tags/open-source.html</link>
     <description>Recent content in open source on Kshitijaa Jaglan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/open-source/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 19 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/open-source/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Outreachy: Introduce Yourself</title>
-      <link>https://example.com/posts/outreachy-introduce-yourself/</link>
+      <link>/posts/outreachy-introduce-yourself.html</link>
       <pubDate>Wed, 19 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/outreachy-introduce-yourself/</guid>
-      <description>&lt;p&gt;First blog post for Outreachy - introducing myself&lt;/p&gt;</description>
+      <guid>/posts/outreachy-introduce-yourself.html</guid>
+      <description>First blog post for Outreachy - Introducing myself</description>
     </item>
     
   </channel>

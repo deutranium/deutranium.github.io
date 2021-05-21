@@ -1,15 +1,12 @@
-+++
-author = "Kshitijaa Jaglan"
-title = "Outreachy: Introduce Yourself"
-date = "2021-05-19"
-description = "First blog post for Outreachy - introducing myself"
-tags = [
+---
+title: "Outreachy: Introduce Yourself"
+date: "2021-05-19"
+description: "First blog post for Outreachy - Introducing myself"
+summary: "First blog post for Outreachy - Introducing myself"
+tags: [
     "outreachy", "open source"
 ]
-+++
-
-First blog post for Outreachy - introducing myself
-<!--more-->
+---
 
 **Blog prompt:** [Here](https://www.outreachy.org/docs/internship/#blog-week-1)
 
