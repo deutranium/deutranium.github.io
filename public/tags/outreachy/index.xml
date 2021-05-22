@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>outreachy on Kshitijaa Jaglan</title>
-    <link>/tags/outreachy.html</link>
+    <link>http://localhost:1313/tags/outreachy.html</link>
     <description>Recent content in outreachy on Kshitijaa Jaglan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 May 2021 10:51:54 +0530</lastBuildDate><atom:link href="/tags/outreachy/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 May 2021 10:51:54 +0530</lastBuildDate><atom:link href="http://localhost:1313/tags/outreachy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Journey to Outreachy with TensorFlow</title>
-      <link>/posts/my-journey-to-outreachy-with-tensorflow.html</link>
+      <link>http://localhost:1313/posts/my-journey-to-outreachy-with-tensorflow.html</link>
       <pubDate>Fri, 21 May 2021 10:51:54 +0530</pubDate>
       
-      <guid>/posts/my-journey-to-outreachy-with-tensorflow.html</guid>
+      <guid>http://localhost:1313/posts/my-journey-to-outreachy-with-tensorflow.html</guid>
       <description>My Journey to Outreachy with TensorFlow</description>
     </item>
     
     <item>
       <title>Outreachy: Introduce Yourself</title>
-      <link>/posts/outreachy-introduce-yourself.html</link>
+      <link>http://localhost:1313/posts/outreachy-introduce-yourself.html</link>
       <pubDate>Wed, 19 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>/posts/outreachy-introduce-yourself.html</guid>
+      <guid>http://localhost:1313/posts/outreachy-introduce-yourself.html</guid>
       <description>First blog post for Outreachy - Introducing myself</description>
     </item>
     
