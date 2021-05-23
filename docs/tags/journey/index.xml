@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>journey on Kshitijaa Jaglan</title>
-    <link>http://localhost:1313/tags/journey.html</link>
-    <description>Recent content in journey on Kshitijaa Jaglan</description>
+    <title>journey on Hugo</title>
+    <link>http://localhost:1313/tags/journey/</link>
+    <description>Recent content in journey on Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 21 May 2021 10:51:54 +0530</lastBuildDate><atom:link href="http://localhost:1313/tags/journey/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Journey to Outreachy with TensorFlow</title>
-      <link>http://localhost:1313/posts/my-journey-to-outreachy-with-tensorflow.html</link>
+      <link>http://localhost:1313/posts/outreachy-journey/</link>
       <pubDate>Fri, 21 May 2021 10:51:54 +0530</pubDate>
       
-      <guid>http://localhost:1313/posts/my-journey-to-outreachy-with-tensorflow.html</guid>
+      <guid>http://localhost:1313/posts/outreachy-journey/</guid>
       <description>Outlining major steps of my Journey to Outreachy with Tensorflow</description>
     </item>
     

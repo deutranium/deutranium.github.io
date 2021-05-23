@@ -1,19 +1,20 @@
-baseURL: https://deutranium.github.io/
+baseURL: "https://deutranium.github.io/"
 languageCode: en-us
-title: Kshitijaa Jaglan
+title: Hugo
 theme: mini
-
-publishDir: docs
 
 # for exampleSite only, you may need to delete the line: `themesDir: ../../` 
 # themesDir: ../../
-relativeURLs: true
-uglyURLs: true
-canonifyURLs: true
 
 hasCJKLanguage: true
-permalinks:
-  posts: /posts/:title/
+# permalinks:
+#   posts: /posts/:title/
+
+publishDir: docs
+
+relativeURLs: true
+# uglyURLs: true
+canonifyURLs: true
 
 # googleAnalytics: your-google-analytics-id
 # disqusShortname: your-disqus-shortname
@@ -29,18 +30,18 @@ markup:
 # Social links in footer, support github,twitter,stackoverflow,facebook
 social:
   # e.g.
-  mail: mailto:kshitijaa.jaglan@research.iiit.ac.in
-  github: https://github.com/deutranium/
-  linkedin: https://www.linkedin.com/in/kshitijaa-jaglan/
-  scholar: https://scholar.google.com/citations?user=Z-1CUlMAAAAJ
+  github: your-github-link
+  twitter: your-github-link
+  stackoverflow: your-github-link
+  # facebook: your-facebook-link
 
 
 # Site parameters
 params:
   # Site Author
-  author: Kshitijaa Jaglan
+  author: Author
   # Author biography
-  bio: Still thinking of a bio
+  bio: Software Engineer
   # Site Description, used in HTML meat
   description: My Blog
   enableRSS: true
