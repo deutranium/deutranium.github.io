@@ -1,6 +1,6 @@
 baseURL: "https://deutranium.github.io/"
 languageCode: en-us
-title: Hugo
+title: Kshitijaa Jaglan
 theme: mini
 
 # for exampleSite only, you may need to delete the line: `themesDir: ../../` 
@@ -30,18 +30,18 @@ markup:
 # Social links in footer, support github,twitter,stackoverflow,facebook
 social:
   # e.g.
-  github: your-github-link
-  twitter: your-github-link
-  stackoverflow: your-github-link
+  github: https://github.com/deutranium/
+  # twitter: your-github-link
+  # stackoverflow: your-github-link
   # facebook: your-facebook-link
 
 
 # Site parameters
 params:
   # Site Author
-  author: Author
+  author: Kshitijaa Jaglan
   # Author biography
-  bio: Software Engineer
+  bio: Still thinking of a bio...
   # Site Description, used in HTML meat
   description: My Blog
   enableRSS: true
