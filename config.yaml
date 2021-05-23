@@ -9,6 +9,7 @@ publishDir: docs
 # themesDir: ../../
 relativeURLs: true
 uglyURLs: true
+canonifyURLs: true
 
 hasCJKLanguage: true
 permalinks:
