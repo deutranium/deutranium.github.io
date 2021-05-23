@@ -1,7 +1,9 @@
-baseURL: http://localhost:1313
+baseURL: https://deutranium.github.io/hugo-blog
 languageCode: en-us
 title: Kshitijaa Jaglan
 theme: mini
+
+publishDir: docs
 
 # for exampleSite only, you may need to delete the line: `themesDir: ../../` 
 # themesDir: ../../

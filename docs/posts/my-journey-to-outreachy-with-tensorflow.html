@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head><script src="/hugo-blog/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=hugo-blog/livereload" data-no-instant defer></script>
+    <title>My Journey to Outreachy with TensorFlow | Kshitijaa Jaglan</title>
+
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">    
+<meta name="viewport" content="width=device-width,minimum-scale=1">
+<meta name="description" content="My Journey to Outreachy with TensorFlow">
+<meta name="generator" content="Hugo 0.83.1" />
+
+
+  <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+
+
+<link rel="stylesheet" href="../hugo-blog/css/style.css">
+<link rel="shortcut icon" href="../hugo-blog/images/favicon.ico" type="image/x-icon" />
+
+
+
+
+
+
+
+
+  </head>
+
+  <body>
+    <nav class="navigation">
+	
+		<a href="../hugo-blog/"> <span class="arrow">←</span>Home</a>
+	
+	<a href="../hugo-blog/posts">Archive</a>
+	<a href="../hugo-blog/tags">Tags</a>
+	<a href="../hugo-blog/about"><b>About</b></a>
+
+	
+
+	
+    
+    <a class="button" href="../hugo-blog/index.xml">RSS Feed</a>
+	
+</nav>
+
+
+    <main class="main">
+      
+
+<section id="single">
+    <h1 class="title">My Journey to Outreachy with TensorFlow</h1>
+
+    <div class="tip">
+        <span>
+          May 21, 2021 10:51
+        </span>
+        <span class="split">
+          ·
+        </span>
+        <span>
+          
+            1562 words
+          
+        </span>
+        <span class="split">
+          ·
+        </span>
+        <span>
+          8 minute read
+        </span>
+    </div>
+
+    <div class="content">
+      <p>Hey fellow human/bot!<br>
+First of all, CONGRAJULASHIONSNSNS for taking the first step towards your Outreachy journey &ndash; researching about it!! In this blog post, I&rsquo;ll describe my Outreachy journey along with a few trips and tricks which might prove useful. So well&hellip;. let&rsquo;s begin!!</p>
+<h2 id="what-is-outreachy">What is Outreachy? <a href="#what-is-outreachy" class="anchor">🔗</a></h2><p>Quoting from the Outreachy <a 
+    href="https://www.outreachy.org/"
+    
+    
+     
+      target="_blank" 
+      rel="noopener"
+    
+>
+    website
+</a> itself, <em>&ldquo;Outreachy is a diversity initiative that provides paid, remote internships to people subject to systemic bias and impacted by underrepresentation in the technical industry where they are living.&quot;</em> To give a gist, it is a paid remote internship program for individuals who face bias/descrimination based on sexuality/race/colour or any other background factor.</p>
+<p>To promote diversity and inclusion of such individuals, Outreachy works in collaboration many open source organizations like TensorFlow, Mozilla, Tor Project among many more. These open source orgs have their own projects and an estimate of how many interns they&rsquo;re planning to select with total number of selections being about <strong>50 per Outreachy cohort</strong>. These projects are usually code based, but there are also those related to documentation, design and conceptualisation etc. For reference, feel free to check the past projects <a 
+    href="https://www.outreachy.org/past-projects/"
+    
+    
+     
+      target="_blank" 
+      rel="noopener"
+    
+>
+    here
+</a>.</p>
+<p>Another point to be noted here is the <strong>eligibility</strong> criteria. Outreachy conducts internships twice an year &ndash; May to August round and December to March round. The eligibility for both can be found below:</p>
+<ul>
+<li><strong>May to August:</strong> If you are a student of a university in the Northern Hemisphere, you will only be eligible for the May to August round. Students in India are considered to be in the northern hemisphere, regardless of where their university is located.</li>
+<li><strong>December to March:</strong> If you are a student of a university in the Southern Hemisphere, you will only be eligible for the December to March round.</li>
+<li>Otherwise, if your university is near the equator, you may apply to any round. The university term schedules will be reviewed on a case-by-case basis.</li>
+</ul>
+<p>The above rules are applicable only to current students as others can apply to either.</p>
+<p>Apart from this, one of the other very important aspect is the role of GSoC. If you have been a past Outreachy intern, or worked with GSoC (even if you didn&rsquo;t complete it successfully), you would automatically be ineligible for Outreachy. You can still work with GSoC next year if you&rsquo;re an Outreachy intern this year</p>
+<h2 id="outreachy-stages-and-timeline">Outreachy stages and timeline <a href="#outreachy-stages-and-timeline" class="anchor">🔗</a></h2><p>Now that you have a good idea of what Outreachy is, I&rsquo;ll explain the main stages of the application process below:</p>
+<h4 id="initial-application">Initial Application <a href="#initial-application" class="anchor">🔗</a></h4><p>The very first step of the process, the initial application requires you to write the 500-900 character answers for the following questions:</p>
+<ul>
+<li>Are you part of an underrepresented group (in the technology industry of the country listed above)? How are you underrepresented?</li>
+<li>What systemic bias or discrimination would you face if you applied for a job in the technology industry of your country?</li>
+<li>Does your learning environment have few people who share your identity or background? Please provide details.</li>
+<li>What systemic bias or discrimination have you faced while building your skills?</li>
+</ul>
+<p>One important point to keep in mind here is to try and give perspectives <strong>unique to you</strong>. This can include incidents you&rsquo;ve witnessed or were involved in, or some &ldquo;ideology&rdquo; you follow etc. Apart from this, try to give as many <strong>quantitative</strong> measures and factors. This can include say the national representation in tech of the community you identify with &ndash; for example, I mentioned about the number of females in Indian tech sector etc. Just try to be as honest as possible and this&rsquo;ll be all good.</p>
+<h4 id="contribution-period">Contribution Period <a href="#contribution-period" class="anchor">🔗</a></h4><p>Once shortlisted in the previous round, you&rsquo;ll receive a mail with links to that particular years' projects and organisations. On the projects page, you can view different projects with the skills (+proficiency) for each of them. In this part, the proficiency required per skill per project would be one of the following:</p>
+<ul>
+<li><strong>Required:</strong> The skill absolutely essential to this project</li>
+<li><strong>Preferred:</strong> Not compulsory, but a candidate with this skill would be preferred over the one without it</li>
+<li><strong>Nice to have:</strong> Again not compulsory but definitely a plus</li>
+</ul>
+<p>During this phase, you should try to have a good balance between your interests, skills you already have and the skills you want to learn while working on the project. For a start, try to go for 2-3 projects which you can narrow down to 1-2 by the end if it seems a lot.<br>
+P.S. you can apply for multiple project in the same or different orgs</p>
+<p>During this time, try to indulge with the <strong>community</strong> as much as possible and follow <strong>good coding and contribution practices</strong>. A good idea would be to go through <a 
+    href="https://www.outreachy.org/docs/applicant/#contribution-evaluation"
+    
+    
+     
+      target="_blank" 
+      rel="noopener"
+    
+>
+    this
+</a> to get a good idea of the evaluation process. It should also be noted that different orgs might have different guidelines so take that into account too.</p>
+<h4 id="final-application">Final Application <a href="#final-application" class="anchor">🔗</a></h4><p>Unlike proposals for GSoC, Outreachy requires you to record contributions (issues, PRs etc.) per project, and answer a few questions related to the same. Please not that you need to record at least one contribution to make a final application for a particular project. The final application includes the following questions:</p>
+<ul>
+<li>Your past experience with this free software community and project</li>
+<li>Your past experience with other free software communities</li>
+<li>Your relevant personal or class projects that relate to this project</li>
+<li>Google Summer of Code communities and projects you are applying for, and the mentor contact information for those projects</li>
+<li>Timeline of tasks for the internship period</li>
+</ul>
+<p>In the first two questions, try to mention your role both as a user and a contributor along with relevant links and examples for the same. For the projects part, don&rsquo;t spam your application with irrelavant projects &ndash; try to make some sub headings according to skills and have 2-3 projects each. The question about GSoC communities does not affect your application in any way and just acts as a medium for communication if you happen to get selected for both GSoC and Outreachy. For the last question about the timeline, just a rough estimate is more than enough. It is very obvious that the timeline is bound to change once you discuss the project with your mentors and come up with a plan of action, so no need to worry about it a lot at the moment. But, one thing that should be noted here is that come communities might ask for a good specific timeline to assess if you&rsquo;ve understood the know-hows of the project well</p>
+<p>Now after the main process, time for some know-hows for your journey to Outreachy</p>
+<h2 id="what-if-i-get-selected-for-both-outreachy-and-gsoc">What if I get selected for both Outreachy and GSoC <a href="#what-if-i-get-selected-for-both-outreachy-and-gsoc" class="anchor">🔗</a></h2><p>I came across this question at many places and was myself wondering about it for at least a couple of months. Oh and as destiny would want, I got selected for both &ndash; Python Software Foundation for GSoC and TensorFlow for Outreachy. According to the eligibility rules, one can&rsquo;t participate in Outreachy if they have already worked for Outreachy itself, or with GSoC. Since the project I was selected for TensorFlow was more suited to my long term goals, I decided to go with the same and planning to attempt GSoC again next year.</p>
+<p>Here is the gist of the process which followed my selection in both:</p>
+<ul>
+<li>Got selected for Outreachy with TensorFlow</li>
+<li>Got selected for GSoC with Python Software Foundation</li>
+<li>Weighed both the options with some seniors and decide to go with Outreachy</li>
+<li>Discussed my decision with GSoC mentors</li>
+<li>Withdrew from GSoC</li>
+<li>Outreachy time yayyyiiiiiiieeeeeee!!!</li>
+</ul>
+<p>So yeah, nothing to fret about as your decision would be the final one and all the mentors for both GSoC and Outreachy are really really helpful and supportive.</p>
+<h2 id="how-should-i-start-contributing">How should I start contributing? <a href="#how-should-i-start-contributing" class="anchor">🔗</a></h2><p>Just <strong>START</strong>. Regardless of how small or inconsequential you think the contribution is, still just go for it. In worst case you&rsquo;ll learn the process followed in the concerned org and in best case you&rsquo;ll again learn the process along with having your contribution accepted. Start with issues which are marked <code>good first issue</code> or <code>beginner friendly</code> etc. which are usually simple enough to get started without much experience with that particular org.</p>
+<p>Also, here are a few guidelines you should take care of while making contributions:</p>
+<ul>
+<li>Be <strong>respectful</strong>, and I can&rsquo;t emphasise this enough. No one will want to work with you if you don&rsquo;t respect them and the people around you.</li>
+<li>Check the org <strong>contribution guidelines</strong> and <strong>follow</strong> them</li>
+<li><strong>Ask for help</strong>. If you&rsquo;re stuck at some point in the organistion practices, or some piece of code, ASK. This can be done through the community IRC or any other way relevant to your project. It is possible that the project mentors are busy to immediately reply to you, so don&rsquo;t ping them unless the question is project specific. If the doubts are related to setting up the repo etc. go through the GitHub issues or Stack Overflow or ask in the general chat instead of pinging the mentors personally.</li>
+<li><strong>Google</strong> will be your best friend, not only for Outreachy, but in all aspects of coding outside that - so good idea to accept is as the Lord and Savious already XD (no offence intended)</li>
+</ul>
+<h2 id="more-questions">More Questions? <a href="#more-questions" class="anchor">🔗</a></h2><p>Feel free to reach me out through any of the means mentioned below, all the best!!</p>
+<p><em>P.S. Version 2 without any grammatical errors and spleling miskates coming soon</em></p>
+
+    </div>
+
+    
+        <div class="tags">
+            
+                <a href="http://localhost:1313/hugo-blog/tags/journey">journey</a>
+            
+                <a href="http://localhost:1313/hugo-blog/tags/outreachy">outreachy</a>
+            
+                <a href="http://localhost:1313/hugo-blog/tags/open-source">open source</a>
+            
+        </div>
+    
+    
+    
+
+</section>
+
+
+    </main>
+    
+    <footer id="footer">
+    
+        <div id="social">
+
+
+    <a class="symbol" href="https://github.com/deutranium/" target="_blank">
+        
+        <svg fill="#bbbbbb" width="28" height="28"  viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    
+    <title>Github</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Social-Icons---Rounded-Black" transform="translate(-264.000000, -939.000000)">
+            <g id="Github" transform="translate(264.000000, 939.000000)">
+                <path d="M8,72 L64,72 C68.418278,72 72,68.418278 72,64 L72,8 C72,3.581722 68.418278,-8.11624501e-16 64,0 L8,0 C3.581722,8.11624501e-16 -5.41083001e-16,3.581722 0,8 L0,64 C5.41083001e-16,68.418278 3.581722,72 8,72 Z" id="Rounded" fill="#bbbbbb"></path>
+                <path d="M35.9985,13 C22.746,13 12,23.7870921 12,37.096644 C12,47.7406712 18.876,56.7718301 28.4145,59.9584121 C29.6145,60.1797862 30.0525,59.4358488 30.0525,58.7973276 C30.0525,58.2250681 30.0315,56.7100863 30.0195,54.6996482 C23.343,56.1558981 21.9345,51.4693938 21.9345,51.4693938 C20.844,48.6864054 19.2705,47.9454799 19.2705,47.9454799 C17.091,46.4500754 19.4355,46.4801943 19.4355,46.4801943 C21.843,46.6503662 23.1105,48.9634994 23.1105,48.9634994 C25.2525,52.6455377 28.728,51.5823398 30.096,50.9649018 C30.3135,49.4077535 30.9345,48.3460615 31.62,47.7436831 C26.2905,47.1352808 20.688,45.0691228 20.688,35.8361671 C20.688,33.2052792 21.6225,31.0547881 23.1585,29.3696344 C22.911,28.7597262 22.0875,26.3110578 23.3925,22.9934585 C23.3925,22.9934585 25.4085,22.3459017 29.9925,25.4632101 C31.908,24.9285993 33.96,24.6620468 36.0015,24.6515052 C38.04,24.6620468 40.0935,24.9285993 42.0105,25.4632101 C46.5915,22.3459017 48.603,22.9934585 48.603,22.9934585 C49.9125,26.3110578 49.089,28.7597262 48.8415,29.3696344 C50.3805,31.0547881 51.309,33.2052792 51.309,35.8361671 C51.309,45.0917119 45.6975,47.1292571 40.3515,47.7256117 C41.2125,48.4695491 41.9805,49.9393525 41.9805,52.1877301 C41.9805,55.4089489 41.9505,58.0067059 41.9505,58.7973276 C41.9505,59.4418726 42.3825,60.1918338 43.6005,59.9554002 C53.13,56.7627944 60,47.7376593 60,37.096644 C60,23.7870921 49.254,13 35.9985,13" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>
+    </a>
+
+    <a class="symbol" href="https://www.linkedin.com/in/kshitijaa-jaglan/" target="_blank">
+        
+        <svg fill="#bbbbbb" width="28" height="28" version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="15px" height="15px" viewBox="0 0 510 510" style="enable-background:new 0 0 510 510;" xml:space="preserve">
+    <g id="post-linkedin">
+        <path d="M459,0H51C22.95,0,0,22.95,0,51v408c0,28.05,22.95,51,51,51h408c28.05,0,51-22.95,51-51V51C510,22.95,487.05,0,459,0z
+            M153,433.5H76.5V204H153V433.5z M114.75,160.65c-25.5,0-45.9-20.4-45.9-45.9s20.4-45.9,45.9-45.9s45.9,20.4,45.9,45.9
+        S140.25,160.65,114.75,160.65z M433.5,433.5H357V298.35c0-20.399-17.85-38.25-38.25-38.25s-38.25,17.851-38.25,38.25V433.5H204
+        V204h76.5v30.6c12.75-20.4,40.8-35.7,63.75-35.7c48.45,0,89.25,40.8,89.25,89.25V433.5z" />
+    </g>
+</svg>
+
+    </a>
+
+    <a class="symbol" href="mailto:kshitijaa.jaglan@research.iiit.ac.in" target="_blank">
+        
+        <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#bbbbbb" width="28" height="28" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+    <g>
+        <path d="M10.688,95.156C80.958,154.667,204.26,259.365,240.5,292.01c4.865,4.406,10.083,6.646,15.5,6.646
+        c5.406,0,10.615-2.219,15.469-6.604c36.271-32.677,159.573-137.385,229.844-196.896c4.375-3.698,5.042-10.198,1.5-14.719
+        C494.625,69.99,482.417,64,469.333,64H42.667c-13.083,0-25.292,5.99-33.479,16.438C5.646,84.958,6.313,91.458,10.688,95.156z" />
+        <path d="M505.813,127.406c-3.781-1.76-8.229-1.146-11.375,1.542C416.51,195.01,317.052,279.688,285.76,307.885
+        c-17.563,15.854-41.938,15.854-59.542-0.021c-33.354-30.052-145.042-125-208.656-178.917c-3.167-2.688-7.625-3.281-11.375-1.542
+        C2.417,129.156,0,132.927,0,137.083v268.25C0,428.865,19.135,448,42.667,448h426.667C492.865,448,512,428.865,512,405.333
+        v-268.25C512,132.927,509.583,129.146,505.813,127.406z" />
+    </g>
+</svg>
+
+    </a>
+
+    <a class="symbol" href="https://scholar.google.com/citations?user=Z-1CUlMAAAAJ" target="_blank">
+        
+        <svg id="Capa_1" enable-background="new 0 0 512 512" viewBox="0 0 512 512" fill="#bbbbbb" width="28" height="28" xmlns="http://www.w3.org/2000/svg">
+    <path d="m501.991 128.354-241-85.031c-3.229-1.14-6.752-1.14-9.981 0l-241 85.031c-5.992 2.114-10.002 7.774-10.01 14.128s3.989 12.023 9.976 14.151l241 85.677c1.625.578 3.325.867 5.024.867 1.7 0 3.399-.289 5.024-.867l241-85.677c5.987-2.128 9.983-7.797 9.976-14.151-.008-6.354-4.018-12.014-10.009-14.128z" />
+    <path d="m475.973 328.574v-130.84l-30 10.665v120.175c-9.036 5.201-15.125 14.946-15.125 26.121 0 11.174 6.089 20.92 15.125 26.121v73.716c0 8.284 6.716 15 15 15s15-6.716 15-15v-73.715c9.036-5.2 15.125-14.947 15.125-26.121 0-11.175-6.088-20.921-15.125-26.122z" />
+    <path d="m256 273.177c-5.149 0-10.22-.875-15.073-2.6l-135.483-48.165v66.008c0 16.149 16.847 29.806 50.073 40.59 28.961 9.4 64.647 14.577 100.483 14.577s71.521-5.177 100.483-14.577c33.226-10.784 50.073-24.441 50.073-40.59v-66.008l-135.482 48.165c-4.854 1.725-9.925 2.6-15.074 2.6z" />
+</svg>
+    </a>
+
+
+</div>
+
+    
+
+    <p class="copyright">
+    
+       © Copyright 
+       2021 
+       <span class="split">
+        <svg fill="#bbbbbb" width="15" height="15" version="1.1" id="heart-15" xmlns="http://www.w3.org/2000/svg" width="15px" height="15px" viewBox="0 0 15 15">
+  <path d="M13.91,6.75c-1.17,2.25-4.3,5.31-6.07,6.94c-0.1903,0.1718-0.4797,0.1718-0.67,0C5.39,12.06,2.26,9,1.09,6.75&#xA;&#x9;C-1.48,1.8,5-1.5,7.5,3.45C10-1.5,16.48,1.8,13.91,6.75z"/>
+</svg>
+       </span>
+       Kshitijaa Jaglan
+    
+    </p>
+    <p class="powerby">
+        Powered by <a href="http://www.gohugo.io/">Hugo</a> Theme By <a href="https://github.com/nodejh/hugo-theme-cactus-plus">nodejh</a>
+    </p>
+</footer>
+
+  </body>
+</html>
