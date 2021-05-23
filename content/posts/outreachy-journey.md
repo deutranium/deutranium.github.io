@@ -2,7 +2,7 @@
 title: "My Journey to Outreachy with TensorFlow"
 date: 2021-05-21T10:51:54+05:30
 description: "My Journey to Outreachy with TensorFlow"
-summary: "Outlining major steps of my Journey to Outreachy with Tensorflow"
+summary: "Outlining the major steps"
 tags: [
     "journey", "outreachy", "open source"
 ]

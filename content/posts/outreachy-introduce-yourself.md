@@ -1,8 +1,8 @@
 ---
 title: "Outreachy: Introduce Yourself"
-date: "2021-05-19"
+date: "2021-05-23"
 description: "First blog post for Outreachy - Introducing myself"
-summary: "First blog post for Outreachy - Introducing myself"
+summary: "First blog post for Outreachy"
 tags: [
     "outreachy", "open source"
 ]
