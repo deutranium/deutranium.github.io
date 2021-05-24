@@ -34,5 +34,212 @@
       <description></description>
     </item>
     
+    <item>
+      <title>ML</title>
+      <link>http://localhost:1313/tags/ml/</link>
+      <pubDate>Mon, 29 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/ml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>project-item</title>
+      <link>http://localhost:1313/tags/project-item/</link>
+      <pubDate>Mon, 29 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/project-item/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>http://localhost:1313/tags/python/</link>
+      <pubDate>Mon, 29 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MERN</title>
+      <link>http://localhost:1313/tags/mern/</link>
+      <pubDate>Fri, 29 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/mern/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web</title>
+      <link>http://localhost:1313/tags/web/</link>
+      <pubDate>Fri, 29 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/web/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Science</title>
+      <link>http://localhost:1313/tags/data-science/</link>
+      <pubDate>Tue, 22 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/data-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CSS</title>
+      <link>http://localhost:1313/tags/css/</link>
+      <pubDate>Fri, 04 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/css/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HTML</title>
+      <link>http://localhost:1313/tags/html/</link>
+      <pubDate>Fri, 04 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/html/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jekyll</title>
+      <link>http://localhost:1313/tags/jekyll/</link>
+      <pubDate>Fri, 04 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/jekyll/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flask</title>
+      <link>http://localhost:1313/tags/flask/</link>
+      <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/flask/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shell Scripting</title>
+      <link>http://localhost:1313/tags/shell-scripting/</link>
+      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/shell-scripting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automation</title>
+      <link>http://localhost:1313/tags/automation/</link>
+      <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/automation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQLite</title>
+      <link>http://localhost:1313/tags/sqlite/</link>
+      <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/sqlite/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CLI</title>
+      <link>http://localhost:1313/tags/cli/</link>
+      <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/cli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MySQL</title>
+      <link>http://localhost:1313/tags/mysql/</link>
+      <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/mysql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>App</title>
+      <link>http://localhost:1313/tags/app/</link>
+      <pubDate>Sat, 04 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/app/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dart</title>
+      <link>http://localhost:1313/tags/dart/</link>
+      <pubDate>Sat, 04 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/dart/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Firebase</title>
+      <link>http://localhost:1313/tags/firebase/</link>
+      <pubDate>Sat, 04 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/firebase/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flutter</title>
+      <link>http://localhost:1313/tags/flutter/</link>
+      <pubDate>Sat, 04 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/flutter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JavaScript</title>
+      <link>http://localhost:1313/tags/javascript/</link>
+      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jQuery</title>
+      <link>http://localhost:1313/tags/jquery/</link>
+      <pubDate>Mon, 29 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/jquery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JAVA</title>
+      <link>http://localhost:1313/tags/java/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/java/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NetBeans</title>
+      <link>http://localhost:1313/tags/netbeans/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/netbeans/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

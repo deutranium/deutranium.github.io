@@ -25,6 +25,9 @@ markup:
   highlight:
     guessSyntax: true
     style: emacs
+  goldmark:
+    renderer:
+      unsafe: true
 
 
 # Social links in footer, support github,twitter,stackoverflow,facebook
@@ -34,9 +37,6 @@ social:
   github: https://github.com/deutranium/
   linkedin: https://www.linkedin.com/in/kshitijaa-jaglan/
   scholar: https://scholar.google.com/citations?user=Z-1CUlMAAAAJ
-  # twitter: your-github-link
-  # stackoverflow: your-github-link
-  # facebook: your-facebook-link
 
 
 # Site parameters
@@ -56,6 +56,7 @@ params:
   # Optional
   home: '' # Default: Home
   about: '' # Default: About
+  projects: ''
   archive: '' # Default: Archive
   tags: '' # Default: Tags
   subscribe: '' # Default: Subscribe

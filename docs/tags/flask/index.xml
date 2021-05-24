@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Flask on Kshitijaa Jaglan</title>
+    <link>http://localhost:1313/tags/flask/</link>
+    <description>Recent content in Flask on Kshitijaa Jaglan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 09 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/flask/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WhatsApp Wordcloud Generator</title>
+      <link>http://localhost:1313/projects/wa-wc/</link>
+      <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/wa-wc/</guid>
+      <description>Building a flask app as a way to summarize WhatsApp chats in a visual way
+The application uses pandas to retrieve dataframes from the WhatsApp chats, regex to clean data and th</description>
+    </item>
+    
+  </channel>
+</rss>

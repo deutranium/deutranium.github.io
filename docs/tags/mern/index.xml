@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MERN on Kshitijaa Jaglan</title>
+    <link>http://localhost:1313/tags/mern/</link>
+    <description>Recent content in MERN on Kshitijaa Jaglan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 29 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/mern/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Job Portal</title>
+      <link>http://localhost:1313/projects/job-portal/</link>
+      <pubDate>Fri, 29 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/job-portal/</guid>
+      <description>Created a Job Portal using MERN stack with features to register as applicant/recruiter and apply/create jobs respectively. The aplication also allows required updation/deletion of jobs and applications as and when required.</description>
+    </item>
+    
+  </channel>
+</rss>

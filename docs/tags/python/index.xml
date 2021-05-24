@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on Kshitijaa Jaglan</title>
+    <link>http://localhost:1313/tags/python/</link>
+    <description>Recent content in Python on Kshitijaa Jaglan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 29 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Genetic Algorithms</title>
+      <link>http://localhost:1313/projects/genetic_algo/</link>
+      <pubDate>Mon, 29 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/genetic_algo/</guid>
+      <description>Created and trained a genetic algorithm written from scratch in Python in a team of two. The process included understanding the utility of one type of function over the other and how everything should be structured for optimal training. The decisions to modify and choose various algorithms over the other also helped me gain insight into why one might be preferred over the other in some cases and vice versa along.</description>
+    </item>
+    
+    <item>
+      <title>Twitter Visualisations</title>
+      <link>http://localhost:1313/projects/japanese-learning-copy/</link>
+      <pubDate>Tue, 22 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/japanese-learning-copy/</guid>
+      <description>Created a website initially aimed to help in my journey of learning the 46 alphabets of the hiragana script of the Japanese language
+Displays random hiragana alphabets with blanks to enter the pronounciation, giving options to hear it and display the score in the end</description>
+    </item>
+    
+    <item>
+      <title>Discord Bot</title>
+      <link>http://localhost:1313/projects/discord-bot/</link>
+      <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/discord-bot/</guid>
+      <description>Developed a discord bot to manage transactions by 20 organizers for 71 participants for a college event
+The bot was created using Discord.py and connected to sqlite for data storage, hosted and used in the event server with options to view the scoreboard, change scores, view history etc.</description>
+    </item>
+    
+    <item>
+      <title>Publication System DBMS</title>
+      <link>http://localhost:1313/projects/dbms/</link>
+      <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/dbms/</guid>
+      <description>Collaborated on a command line applications to be used to perform CRUD operations on a database of a publication company
+The CLI had functionalities like creating new articles and issues, change their details like author, editor, retrieve results after applying filters, analyze the change in subscribers, check sponsor and contributer details etc.</description>
+    </item>
+    
+    <item>
+      <title>River Crossing Game</title>
+      <link>http://localhost:1313/projects/river-crossing-game/</link>
+      <pubDate>Thu, 30 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/river-crossing-game/</guid>
+      <description>Created a river crossing game as a part of Intro to Software Systems course in Python, and using the PyGame library
+This is a two-player game, with increasing difficulty as the game progresses. The aim is to dodge the moving and fixed obstacles and reach the other end.</description>
+    </item>
+    
+  </channel>
+</rss>

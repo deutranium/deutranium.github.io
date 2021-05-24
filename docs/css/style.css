@@ -501,3 +501,45 @@ nav.navigation a.button {
   top: 1px;
   color: #bbb;
 }
+
+.project-parent {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.project-item {
+    width: 30%;
+    margin-bottom: 20px;
+    text-align: center
+}
+
+.project-img {
+    width: 100%;
+    border: solid 0.5px #eee
+}
+
+.project-icons-div {
+    display: flex;
+    justify-content: space-around;
+    padding: 0 50px;
+}
+
+.project-icon {
+    width: 20px;
+    color: #bbb
+}
+
+.project-item p {
+    margin: 0;
+    font-size: 12px;
+}
+
+.project-item #tags {
+    margin: 0
+}
+
+.project-item #tags .tag {
+    margin: 2px 1px;
+    font-size: 8px;
+}

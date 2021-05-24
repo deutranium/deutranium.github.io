@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web on Kshitijaa Jaglan</title>
+    <link>http://localhost:1313/tags/web/</link>
+    <description>Recent content in Web on Kshitijaa Jaglan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 29 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/web/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Job Portal</title>
+      <link>http://localhost:1313/projects/job-portal/</link>
+      <pubDate>Fri, 29 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/job-portal/</guid>
+      <description>Created a Job Portal using MERN stack with features to register as applicant/recruiter and apply/create jobs respectively. The aplication also allows required updation/deletion of jobs and applications as and when required.</description>
+    </item>
+    
+    <item>
+      <title>Turing</title>
+      <link>http://localhost:1313/projects/turing/</link>
+      <pubDate>Fri, 04 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/turing/</guid>
+      <description>Produced an e-magazine in a team of 10 with articles along with categories, tags, authors etc. and filters for the same.
+The website is planned to host all the projects made by the UG 2k19 batch as a part of Algorithm Analysis and Design course.</description>
+    </item>
+    
+    <item>
+      <title>WhatsApp Wordcloud Generator</title>
+      <link>http://localhost:1313/projects/wa-wc/</link>
+      <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/wa-wc/</guid>
+      <description>Building a flask app as a way to summarize WhatsApp chats in a visual way
+The application uses pandas to retrieve dataframes from the WhatsApp chats, regex to clean data and th</description>
+    </item>
+    
+    <item>
+      <title>Japanese Learning</title>
+      <link>http://localhost:1313/projects/japanese-learning/</link>
+      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/japanese-learning/</guid>
+      <description>Created a website initially aimed to help in my journey of learning the 46 alphabets of the hiragana script of the Japanese language
+Displays random hiragana alphabets with blanks to enter the pronounciation, giving options to hear it and display the score in the end</description>
+    </item>
+    
+    <item>
+      <title>Cutoff Filter</title>
+      <link>http://localhost:1313/projects/cutoff-filter/</link>
+      <pubDate>Mon, 29 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/cutoff-filter/</guid>
+      <description>Designed a cutoff filter to help choosing colleges during JoSAA counselling 2019 based on different filters like opening ranks, closing ranks, categories etc.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -33,6 +33,7 @@ Now some formal stuff below:
 ## Awards and Honours
 - School top-scorer for **Physics** in Senior Secondary School Examination 2019 (CBSE Boards 2019)
 - **[Google Code-In 2017](https://drive.google.com/file/d/0B11f3dEvKGEJSHM0NkVnMjVFaHotWUxVWmtZcmZYTHFMbnp3/view?usp=sharing):** Finalist
+- **NTSE Scholar:** Received scholarship during class XI and XII by the Government of Haryana
 
 ## Extra-Curriculars and Committees
 - **September 2020 - Present:** [Open Source Developers' Group, IIIT Hyderabad](https://github.com/OSDG-IIITH) - *Administrator*

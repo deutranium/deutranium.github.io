@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CLI on Kshitijaa Jaglan</title>
+    <link>http://localhost:1313/tags/cli/</link>
+    <description>Recent content in CLI on Kshitijaa Jaglan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 07 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/cli/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Publication System DBMS</title>
+      <link>http://localhost:1313/projects/dbms/</link>
+      <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/dbms/</guid>
+      <description>Collaborated on a command line applications to be used to perform CRUD operations on a database of a publication company
+The CLI had functionalities like creating new articles and issues, change their details like author, editor, retrieve results after applying filters, analyze the change in subscribers, check sponsor and contributer details etc.</description>
+    </item>
+    
+  </channel>
+</rss>

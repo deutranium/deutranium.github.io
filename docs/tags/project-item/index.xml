@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>project-item on Kshitijaa Jaglan</title>
+    <link>http://localhost:1313/tags/project-item/</link>
+    <description>Recent content in project-item on Kshitijaa Jaglan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 29 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/project-item/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Genetic Algorithms</title>
+      <link>http://localhost:1313/projects/genetic_algo/</link>
+      <pubDate>Mon, 29 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/genetic_algo/</guid>
+      <description>Created and trained a genetic algorithm written from scratch in Python in a team of two. The process included understanding the utility of one type of function over the other and how everything should be structured for optimal training. The decisions to modify and choose various algorithms over the other also helped me gain insight into why one might be preferred over the other in some cases and vice versa along.</description>
+    </item>
+    
+    <item>
+      <title>Job Portal</title>
+      <link>http://localhost:1313/projects/job-portal/</link>
+      <pubDate>Fri, 29 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/job-portal/</guid>
+      <description>Created a Job Portal using MERN stack with features to register as applicant/recruiter and apply/create jobs respectively. The aplication also allows required updation/deletion of jobs and applications as and when required.</description>
+    </item>
+    
+    <item>
+      <title>Twitter Visualisations</title>
+      <link>http://localhost:1313/projects/japanese-learning-copy/</link>
+      <pubDate>Tue, 22 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/japanese-learning-copy/</guid>
+      <description>Created a website initially aimed to help in my journey of learning the 46 alphabets of the hiragana script of the Japanese language
+Displays random hiragana alphabets with blanks to enter the pronounciation, giving options to hear it and display the score in the end</description>
+    </item>
+    
+    <item>
+      <title>Turing</title>
+      <link>http://localhost:1313/projects/turing/</link>
+      <pubDate>Fri, 04 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/turing/</guid>
+      <description>Produced an e-magazine in a team of 10 with articles along with categories, tags, authors etc. and filters for the same.
+The website is planned to host all the projects made by the UG 2k19 batch as a part of Algorithm Analysis and Design course.</description>
+    </item>
+    
+    <item>
+      <title>WhatsApp Wordcloud Generator</title>
+      <link>http://localhost:1313/projects/wa-wc/</link>
+      <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/wa-wc/</guid>
+      <description>Building a flask app as a way to summarize WhatsApp chats in a visual way
+The application uses pandas to retrieve dataframes from the WhatsApp chats, regex to clean data and th</description>
+    </item>
+    
+    <item>
+      <title>WhatsApp Desktop App (Linux)</title>
+      <link>http://localhost:1313/projects/ubuntuwa/</link>
+      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/ubuntuwa/</guid>
+      <description>Created a desktop app for WhatsApp to be used in linux distros using the chromium command line application and ubuntu .desktop configurations</description>
+    </item>
+    
+    <item>
+      <title>Discord Bot</title>
+      <link>http://localhost:1313/projects/discord-bot/</link>
+      <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/discord-bot/</guid>
+      <description>Developed a discord bot to manage transactions by 20 organizers for 71 participants for a college event
+The bot was created using Discord.py and connected to sqlite for data storage, hosted and used in the event server with options to view the scoreboard, change scores, view history etc.</description>
+    </item>
+    
+    <item>
+      <title>Publication System DBMS</title>
+      <link>http://localhost:1313/projects/dbms/</link>
+      <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/dbms/</guid>
+      <description>Collaborated on a command line applications to be used to perform CRUD operations on a database of a publication company
+The CLI had functionalities like creating new articles and issues, change their details like author, editor, retrieve results after applying filters, analyze the change in subscribers, check sponsor and contributer details etc.</description>
+    </item>
+    
+    <item>
+      <title>Heibi - College Convinience App</title>
+      <link>http://localhost:1313/projects/heibi/</link>
+      <pubDate>Sat, 04 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/heibi/</guid>
+      <description>Making a cross platform flutter app linked with Firebase for data storage and easy access, as a part of a team of 7
+The app aims to make day to day functions for college student easier with features like managing laundry, getting food from food courts, using amenities like TT, badminton courts etc.</description>
+    </item>
+    
+    <item>
+      <title>River Crossing Game</title>
+      <link>http://localhost:1313/projects/river-crossing-game/</link>
+      <pubDate>Thu, 30 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/river-crossing-game/</guid>
+      <description>Created a river crossing game as a part of Intro to Software Systems course in Python, and using the PyGame library
+This is a two-player game, with increasing difficulty as the game progresses. The aim is to dodge the moving and fixed obstacles and reach the other end.</description>
+    </item>
+    
+    <item>
+      <title>Japanese Learning</title>
+      <link>http://localhost:1313/projects/japanese-learning/</link>
+      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/japanese-learning/</guid>
+      <description>Created a website initially aimed to help in my journey of learning the 46 alphabets of the hiragana script of the Japanese language
+Displays random hiragana alphabets with blanks to enter the pronounciation, giving options to hear it and display the score in the end</description>
+    </item>
+    
+    <item>
+      <title>Cutoff Filter</title>
+      <link>http://localhost:1313/projects/cutoff-filter/</link>
+      <pubDate>Mon, 29 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/cutoff-filter/</guid>
+      <description>Designed a cutoff filter to help choosing colleges during JoSAA counselling 2019 based on different filters like opening ranks, closing ranks, categories etc.</description>
+    </item>
+    
+    <item>
+      <title>To Do List</title>
+      <link>http://localhost:1313/projects/todo/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/todo/</guid>
+      <description>Designed a ToDo List App in Java connected to a MySQL database for data storage
+The features include creation of new tasks, modification of the old taks, along with an option to delete them</description>
+    </item>
+    
+  </channel>
+</rss>

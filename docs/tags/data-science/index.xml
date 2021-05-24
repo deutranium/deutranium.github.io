@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science on Kshitijaa Jaglan</title>
+    <link>http://localhost:1313/tags/data-science/</link>
+    <description>Recent content in Data Science on Kshitijaa Jaglan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 22 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/data-science/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Twitter Visualisations</title>
+      <link>http://localhost:1313/projects/japanese-learning-copy/</link>
+      <pubDate>Tue, 22 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/japanese-learning-copy/</guid>
+      <description>Created a website initially aimed to help in my journey of learning the 46 alphabets of the hiragana script of the Japanese language
+Displays random hiragana alphabets with blanks to enter the pronounciation, giving options to hear it and display the score in the end</description>
+    </item>
+    
+  </channel>
+</rss>
