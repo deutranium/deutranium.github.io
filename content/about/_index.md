@@ -30,6 +30,9 @@ Now some formal stuff below:
 - **December 2020 - February 2021:** [CAPTL](https://www.linkedin.com/company/captl/about/) - *Frontend Developer*
 - **December 2019 - April 2020:** [CareYear](https://github.com/careyear) - *Frontend Developer*
 
+## Projects
+You may view my projects **[here](/projects)**
+
 ## Awards and Honours
 - School top-scorer for **Physics** in Senior Secondary School Examination 2019 (CBSE Boards 2019)
 - **[Google Code-In 2017](https://drive.google.com/file/d/0B11f3dEvKGEJSHM0NkVnMjVFaHotWUxVWmtZcmZYTHFMbnp3/view?usp=sharing):** Finalist
