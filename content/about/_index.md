@@ -13,6 +13,8 @@ I am Kshitijaa Jaglan - an undergraduate research student at [International Insi
 
 I am fascinated by everything space, quantum and cybersecurity. A related fun fact: In high school I found a vulnerability in the website of an educational event (in affiliation with some departments of the Government of India) which was leaking data of about 100k students *(don't sue me, I responsibly reported it XD)*. Apart from this, I also like to skate and waveboard at times and would always be up for cycling.
 
+Also yes, I am in LOVE with everything Japan and the beauty of minimalistic design. The solid shades of pastel and simplicity tend to catch my attention for some reason and tend to be my guides in many of the artistic pursuits. One of the would be [Japanese Learning](https://deutranium.github.io/Japanese-Practice/) which I made during high school to help me practice my hiragana skills. I have also tried my hand at origami but lost touch since a past few months -- hoping to catch this up soon too.
+
 Now some formal stuff below:
 
 ## Education
