@@ -15,6 +15,11 @@ So LET'S GGGGOOOOOOOO!!!!!!
 ## What is it?
 After going through many name changes like AnitaB.Org Scholarship, Google Women Techmakers etc, the Google Generation Scholarship is meant *"for women in computer science .... to help aspiring students pursuing computer science degrees excel in technology and become leaders in the field"*[^1]
 
+Selected scholars get the following:
+- $1000 USD for 2021-2022 school year
+- Google Swag
+- A Google retreat! (Mine was virtual because of COVID)
+
 
 [^1]: [Google Generation Scholarship](https://buildyourfuture.withgoogle.com/scholarships/generation-google-scholarship-apac/)
 
