@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>scholarship on Kshitijaa Jaglan</title>
+    <link>http://localhost:1313/tags/scholarship/</link>
+    <description>Recent content in scholarship on Kshitijaa Jaglan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 26 Jun 2021 08:22:29 +0530</lastBuildDate><atom:link href="http://localhost:1313/tags/scholarship/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Google Generation Scholarship Experience</title>
+      <link>http://localhost:1313/posts/google-generation-scholarship/</link>
+      <pubDate>Sat, 26 Jun 2021 08:22:29 +0530</pubDate>
+      
+      <guid>http://localhost:1313/posts/google-generation-scholarship/</guid>
+      <description>My journey and experience with the Google Generation Scholarship</description>
+    </item>
+    
+  </channel>
+</rss>

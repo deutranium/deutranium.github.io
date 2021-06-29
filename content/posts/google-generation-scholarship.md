@@ -1,7 +1,6 @@
 ---
 title: "Google Generation Scholarship Experience"
 date: 2021-06-26T08:22:29+05:30
-draft: true
 summary: "My journey and experience with the Google Generation Scholarship"
 tags: [
     "journey", "scholarship", "Google"
