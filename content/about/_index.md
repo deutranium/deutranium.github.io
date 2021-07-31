@@ -36,7 +36,7 @@ Now some formal stuff below:
 You may view my projects **[here](/projects)**
 
 ## Awards and Honours
-- **[vGHC Student Scholarship](https://ghc.anitab.org/attend/scholarships/academics/):** Selected as one of about 250 scholars from all over the world to attend the (virtual) Grace Hopper Celebration 2021 organised by AnitaB.org
+- **[vGHC Student Scholarship](https://ghc.anitab.org/attend/scholarships/academics/):** Selected as one of about 1300 scholars from all over the world to attend the (virtual) Grace Hopper Celebration 2021 organised by AnitaB.org
 - **[Generation Google Scholar 2021](https://buildyourfuture.withgoogle.com/scholarships/generation-google-scholarship-apac/):** Selected as one of the 70 scholars for the 2021 Generation Google Scholarship (Asia Pacific region)
 - **[Google Code-In 2017](https://drive.google.com/file/d/0B11f3dEvKGEJSHM0NkVnMjVFaHotWUxVWmtZcmZYTHFMbnp3/view?usp=sharing):** Finalist
 - **NTSE Scholar 2017:** Received scholarship during class XI and XII by the Government of Haryana
