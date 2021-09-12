@@ -13,8 +13,8 @@
       <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/projects/discord-bot/</guid>
-      <description>Developed a discord bot to manage transactions by 20 organizers for 71 participants for a college event
-The bot was created using Discord.py and connected to sqlite for data storage, hosted and used in the event server with options to view the scoreboard, change scores, view history etc.</description>
+      <description>Designed and implemented a discord bot to manage transactions by over 20 organizers for more than 70 participants in an intra-college event
+The bot was used Discord.py and connected to SQLite for data storage. It was hosted and used in the event server with options to view the scoreboard, change scores, view history etc.</description>
     </item>
     
     <item>
@@ -23,7 +23,7 @@ The bot was created using Discord.py and connected to sqlite for data storage, h
       <pubDate>Mon, 29 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/projects/cutoff-filter/</guid>
-      <description>Designed a cutoff filter to help choosing colleges during JoSAA counselling 2019 based on different filters like opening ranks, closing ranks, categories etc.</description>
+      <description>Designed a cutoff filter for my comfort to help choosing colleges during JoSAA counselling 2019 based on different filters like opening ranks, closing ranks, categories etc.</description>
     </item>
     
   </channel>

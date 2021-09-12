@@ -13,8 +13,8 @@
       <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/projects/wa-wc/</guid>
-      <description>Building a flask app as a way to summarize WhatsApp chats in a visual way
-The application uses pandas to retrieve dataframes from the WhatsApp chats, regex to clean data and th</description>
+      <description>Building a flask app as a way to summarize WhatsApp chats in a visual way through wordclouds portraying frequencies of various words.
+The application uses pandas to retrieve dataframes from the WhatsApp chats, regex to clean data while ensuring that characters like emojis etc. do not appear in the final text.</description>
     </item>
     
   </channel>

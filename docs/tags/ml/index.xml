@@ -13,7 +13,9 @@
       <pubDate>Mon, 29 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/projects/genetic_algo/</guid>
-      <description>Created and trained a genetic algorithm written from scratch in Python in a team of two. The process included understanding the utility of one type of function over the other and how everything should be structured for optimal training. The decisions to modify and choose various algorithms over the other also helped me gain insight into why one might be preferred over the other in some cases and vice versa along.</description>
+      <description>Team project with Rishabh  as a part of Machine, Data and Learning (Spring&#39;21)
+Implemented a genetic algorithm with functions like crossover, mutation, etc. to come up with new populations based on best features.
+Trained the function on a hidden dataset with only training and validation error being provided and got a best rank of 9 out of over 110 teams</description>
     </item>
     
   </channel>

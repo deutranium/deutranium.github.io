@@ -9,12 +9,12 @@
     <lastBuildDate>Tue, 22 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/data-science/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Twitter Visualisations</title>
-      <link>http://localhost:1313/projects/japanese-learning-copy/</link>
+      <link>http://localhost:1313/projects/twitter-visualisations/</link>
       <pubDate>Tue, 22 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/projects/japanese-learning-copy/</guid>
-      <description>Created a website initially aimed to help in my journey of learning the 46 alphabets of the hiragana script of the Japanese language
-Displays random hiragana alphabets with blanks to enter the pronounciation, giving options to hear it and display the score in the end</description>
+      <guid>http://localhost:1313/projects/twitter-visualisations/</guid>
+      <description>Generated a corpus of over 11,000 tweets using Python and Tweepy with required error handling for rate limits etc.
+Aggregated and analyzed the data in the form of a Streamlit webapp showing various coorelations between different tweet metadata while ensuring an easy-to-use interface.</description>
     </item>
     
   </channel>

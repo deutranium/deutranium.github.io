@@ -6,4 +6,4 @@ date: 2021-01-29
 tags: ["project-item", "MERN", "Web"]
 ---
 
-Created a Job Portal using MERN stack with features to register as applicant/recruiter and apply/create jobs respectively. The aplication also allows required updation/deletion of jobs and applications as and when required.
+Created a Job Portal using **MERN stack** with features to **register as applicant or recruiter** and apply/create jobs respectively. The aplication also allows allows **updation and deletion** of jobs and applications as and when required along with options to **edit** the user **profile**.

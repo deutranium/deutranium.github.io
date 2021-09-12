@@ -13,8 +13,8 @@
       <pubDate>Fri, 04 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/projects/turing/</guid>
-      <description>Produced an e-magazine in a team of 10 with articles along with categories, tags, authors etc. and filters for the same.
-The website is planned to host all the projects made by the UG 2k19 batch as a part of Algorithm Analysis and Design course.</description>
+      <description>Produced a Jekyll e-magazine in a team of 10 with articles along with categories, tags, authors etc. and filters for the same.
+The website has been selected to host all the projects made by the UG 2k19 batch as a part of Algorithm Analysis and Design course.</description>
     </item>
     
     <item>
@@ -24,7 +24,7 @@ The website is planned to host all the projects made by the UG 2k19 batch as a p
       
       <guid>http://localhost:1313/projects/japanese-learning/</guid>
       <description>Created a website initially aimed to help in my journey of learning the 46 alphabets of the hiragana script of the Japanese language
-Displays random hiragana alphabets with blanks to enter the pronounciation, giving options to hear it and display the score in the end</description>
+The website displays hiragana alphabets picked at random with a blank to enter the pronounciation, while also giving options to hear it and generating the final score in the end.</description>
     </item>
     
     <item>
@@ -33,7 +33,7 @@ Displays random hiragana alphabets with blanks to enter the pronounciation, givi
       <pubDate>Mon, 29 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/projects/cutoff-filter/</guid>
-      <description>Designed a cutoff filter to help choosing colleges during JoSAA counselling 2019 based on different filters like opening ranks, closing ranks, categories etc.</description>
+      <description>Designed a cutoff filter for my comfort to help choosing colleges during JoSAA counselling 2019 based on different filters like opening ranks, closing ranks, categories etc.</description>
     </item>
     
   </channel>

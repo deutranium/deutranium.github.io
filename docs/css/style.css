@@ -251,7 +251,7 @@ nav.navigation a.button {
 
 /* index post list */
 #list-page {
-  max-width: 580px;
+  max-width: 620px;
   margin: 0 auto;
   padding: 0 24px;
 }
@@ -372,7 +372,7 @@ nav.navigation a.button {
 
 
 #archive {
-  max-width: 580px;
+  max-width: 620px;
   margin: 0 auto;
   padding: 0 24px;
 }
@@ -457,14 +457,14 @@ nav.navigation a.button {
 
 /* section page */
 #section {
-  max-width: 580px;
+  max-width: 620px;
   margin: 48px auto 0 auto;
   padding: 0 12px;
 }
 
 /* 404 page */
 #page-404 {
-  max-width: 580px;
+  max-width: 620px;
   margin: 0 auto;
   padding: 0 24px;
 }
@@ -502,21 +502,36 @@ nav.navigation a.button {
   color: #bbb;
 }
 
-.project-parent {
+.project-item {
+    margin-bottom: 20px;
+    /* text-align: center; */
     display: flex;
-    justify-content: space-around;
-    flex-wrap: wrap;
 }
 
-.project-item {
-    width: 30%;
-    margin-bottom: 20px;
-    text-align: center
+.project-left {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.project-right {
+    padding: 5px 20px;
+    /* border-right: #dadadc 1px solid; */
+    width: 100%;
 }
 
 .project-img {
-    width: 100%;
-    border: solid 0.5px #eee
+    width: 180px;
+    border: solid 0.5px #eee;
+}
+
+.project-title {
+    font-weight: 700;
+    font-size: 1.1rem;
+}
+
+.project-desc {
+    font-size: 12px;
 }
 
 .project-icons-div {
@@ -526,8 +541,9 @@ nav.navigation a.button {
 }
 
 .project-icon {
-    width: 20px;
-    color: #bbb
+    width: 12px;
+    color: rgb(23, 139, 233);
+    padding: 0 5px;
 }
 
 .project-item p {
@@ -535,11 +551,23 @@ nav.navigation a.button {
     font-size: 12px;
 }
 
-.project-item #tags {
-    margin: 0
+.project-date {
+    color: #666;
+    font-size: 10px;
+    font-weight: bold;
+}
+
+#tags {
+    margin: 1px 0;
+    text-align: left;
+    padding: 0
 }
 
 .project-item #tags .tag {
-    margin: 2px 1px;
-    font-size: 8px;
+    margin: 2px 1px 0 0;
+}
+
+.project-item #tags .tag a {
+
+    font-size: 10px;
 }

@@ -40,7 +40,9 @@
       <pubDate>Mon, 29 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/projects/genetic_algo/</guid>
-      <description>Created and trained a genetic algorithm written from scratch in Python in a team of two. The process included understanding the utility of one type of function over the other and how everything should be structured for optimal training. The decisions to modify and choose various algorithms over the other also helped me gain insight into why one might be preferred over the other in some cases and vice versa along.</description>
+      <description>Team project with Rishabh  as a part of Machine, Data and Learning (Spring&#39;21)
+Implemented a genetic algorithm with functions like crossover, mutation, etc. to come up with new populations based on best features.
+Trained the function on a hidden dataset with only training and validation error being provided and got a best rank of 9 out of over 110 teams</description>
     </item>
     
     <item>
@@ -49,17 +51,17 @@
       <pubDate>Fri, 29 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/projects/job-portal/</guid>
-      <description>Created a Job Portal using MERN stack with features to register as applicant/recruiter and apply/create jobs respectively. The aplication also allows required updation/deletion of jobs and applications as and when required.</description>
+      <description>Created a Job Portal using MERN stack with features to register as applicant or recruiter and apply/create jobs respectively. The aplication also allows allows updation and deletion of jobs and applications as and when required along with options to edit the user profile.</description>
     </item>
     
     <item>
       <title>Twitter Visualisations</title>
-      <link>http://localhost:1313/projects/japanese-learning-copy/</link>
+      <link>http://localhost:1313/projects/twitter-visualisations/</link>
       <pubDate>Tue, 22 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/projects/japanese-learning-copy/</guid>
-      <description>Created a website initially aimed to help in my journey of learning the 46 alphabets of the hiragana script of the Japanese language
-Displays random hiragana alphabets with blanks to enter the pronounciation, giving options to hear it and display the score in the end</description>
+      <guid>http://localhost:1313/projects/twitter-visualisations/</guid>
+      <description>Generated a corpus of over 11,000 tweets using Python and Tweepy with required error handling for rate limits etc.
+Aggregated and analyzed the data in the form of a Streamlit webapp showing various coorelations between different tweet metadata while ensuring an easy-to-use interface.</description>
     </item>
     
     <item>
@@ -68,8 +70,8 @@ Displays random hiragana alphabets with blanks to enter the pronounciation, givi
       <pubDate>Fri, 04 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/projects/turing/</guid>
-      <description>Produced an e-magazine in a team of 10 with articles along with categories, tags, authors etc. and filters for the same.
-The website is planned to host all the projects made by the UG 2k19 batch as a part of Algorithm Analysis and Design course.</description>
+      <description>Produced a Jekyll e-magazine in a team of 10 with articles along with categories, tags, authors etc. and filters for the same.
+The website has been selected to host all the projects made by the UG 2k19 batch as a part of Algorithm Analysis and Design course.</description>
     </item>
     
     <item>
@@ -78,8 +80,8 @@ The website is planned to host all the projects made by the UG 2k19 batch as a p
       <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/projects/wa-wc/</guid>
-      <description>Building a flask app as a way to summarize WhatsApp chats in a visual way
-The application uses pandas to retrieve dataframes from the WhatsApp chats, regex to clean data and th</description>
+      <description>Building a flask app as a way to summarize WhatsApp chats in a visual way through wordclouds portraying frequencies of various words.
+The application uses pandas to retrieve dataframes from the WhatsApp chats, regex to clean data while ensuring that characters like emojis etc. do not appear in the final text.</description>
     </item>
     
     <item>
@@ -88,7 +90,8 @@ The application uses pandas to retrieve dataframes from the WhatsApp chats, rege
       <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/projects/ubuntuwa/</guid>
-      <description>Created a desktop app for WhatsApp to be used in linux distros using the chromium command line application and ubuntu .desktop configurations</description>
+      <description>Since I wanted a WhatsApp app for Ubuntu and couldn&amp;rsquo;t find any official package, I decided to create one using the Chromium command line application and the Ubuntu .desktop configurations
+The code uses an electron wrapper to implement the web version of WhatsApp as a standalone app which can be used with any other Linux distro too (with minor modifications)</description>
     </item>
     
     <item>
@@ -97,8 +100,8 @@ The application uses pandas to retrieve dataframes from the WhatsApp chats, rege
       <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/projects/discord-bot/</guid>
-      <description>Developed a discord bot to manage transactions by 20 organizers for 71 participants for a college event
-The bot was created using Discord.py and connected to sqlite for data storage, hosted and used in the event server with options to view the scoreboard, change scores, view history etc.</description>
+      <description>Designed and implemented a discord bot to manage transactions by over 20 organizers for more than 70 participants in an intra-college event
+The bot was used Discord.py and connected to SQLite for data storage. It was hosted and used in the event server with options to view the scoreboard, change scores, view history etc.</description>
     </item>
     
     <item>
@@ -107,7 +110,7 @@ The bot was created using Discord.py and connected to sqlite for data storage, h
       <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/projects/dbms/</guid>
-      <description>Collaborated on a command line applications to be used to perform CRUD operations on a database of a publication company
+      <description>Collaborated on a command line applications to be used to perform CRUD (Create, Read, Update, Delete) operations on a MySql database of a publication company
 The CLI had functionalities like creating new articles and issues, change their details like author, editor, retrieve results after applying filters, analyze the change in subscribers, check sponsor and contributer details etc.</description>
     </item>
     
@@ -117,7 +120,7 @@ The CLI had functionalities like creating new articles and issues, change their 
       <pubDate>Sat, 04 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/projects/heibi/</guid>
-      <description>Making a cross platform flutter app linked with Firebase for data storage and easy access, as a part of a team of 7
+      <description>Making a cross platform flutter app linked with Firebase for data storage and easy access, as a team of 7
 The app aims to make day to day functions for college student easier with features like managing laundry, getting food from food courts, using amenities like TT, badminton courts etc.</description>
     </item>
     
@@ -138,7 +141,7 @@ This is a two-player game, with increasing difficulty as the game progresses. Th
       
       <guid>http://localhost:1313/projects/japanese-learning/</guid>
       <description>Created a website initially aimed to help in my journey of learning the 46 alphabets of the hiragana script of the Japanese language
-Displays random hiragana alphabets with blanks to enter the pronounciation, giving options to hear it and display the score in the end</description>
+The website displays hiragana alphabets picked at random with a blank to enter the pronounciation, while also giving options to hear it and generating the final score in the end.</description>
     </item>
     
     <item>
@@ -147,7 +150,7 @@ Displays random hiragana alphabets with blanks to enter the pronounciation, givi
       <pubDate>Mon, 29 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/projects/cutoff-filter/</guid>
-      <description>Designed a cutoff filter to help choosing colleges during JoSAA counselling 2019 based on different filters like opening ranks, closing ranks, categories etc.</description>
+      <description>Designed a cutoff filter for my comfort to help choosing colleges during JoSAA counselling 2019 based on different filters like opening ranks, closing ranks, categories etc.</description>
     </item>
     
     <item>
@@ -156,7 +159,7 @@ Displays random hiragana alphabets with blanks to enter the pronounciation, givi
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/projects/todo/</guid>
-      <description>Designed a ToDo List App in Java connected to a MySQL database for data storage
+      <description>Designed a ToDo List App in Java NetBeans, connected to a MySQL database for data storage
 The features include creation of new tasks, modification of the old taks, along with an option to delete them</description>
     </item>
     
