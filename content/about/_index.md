@@ -26,9 +26,16 @@ Now some formal stuff below:
     - Class XII: 94.8%
 
 ## Experience
-- **May 2021 - Present:** [Tensorflow](https://www.outreachy.org/alums/2021-05/) - *Outreachy Intern*
-- **February 2020 - Present:** [Indian School of Business, Hyderabad](https://diri.isb.edu/en/our-people.html) - *Research & Development Intern*
-- **January 2021 - April 2021:** [Major League Hacking](https://fellowship.mlh.io/) - *MLH Fellow*
+- **May 2021 - Present:** [Tensorflow](https://www.outreachy.org/alums/2021-05/) - *Outreachy Intern* \
+<sub>Worked on TensorFlow Extended Library for ML Pipeline systems</sub>
+
+- **February 2020 - Present:** [Indian School of Business, Hyderabad](https://diri.isb.edu/en/our-people.html) - *Research & Development Intern* \
+<sub>Data extraction and retrieval, data analysis, data science and visualisation</sub>
+
+
+- **January 2021 - April 2021:** [Major League Hacking](https://fellowship.mlh.io/) - *MLH Fellow* \
+<sub>Selected in a batch of 150 from over 10,000 applicants</sub>
+
 - **December 2020 - February 2021:** [CAPTL](https://www.linkedin.com/company/captl/about/) - *Frontend Developer*
 - **December 2019 - April 2020:** [CareYear](https://github.com/careyear) - *Frontend Developer*
 
@@ -37,8 +44,8 @@ You may view my projects **[here](/projects)**
 
 ## Awards and Honours
 - **[vGHC Student Scholarship](https://ghc.anitab.org/attend/scholarships/academics/):** Selected as one of about 1300 scholars from all over the world to attend the (virtual) Grace Hopper Celebration 2021 organised by AnitaB.org
-- **[Generation Google Scholar 2021](https://buildyourfuture.withgoogle.com/scholarships/generation-google-scholarship-apac/):** Selected as one of the 70 scholars for the 2021 Generation Google Scholarship (Asia Pacific region)
-- **[Google Code-In 2017](https://drive.google.com/file/d/0B11f3dEvKGEJSHM0NkVnMjVFaHotWUxVWmtZcmZYTHFMbnp3/view?usp=sharing):** Finalist
+- **[Generation Google Scholar 2021](https://buildyourfuture.withgoogle.com/scholarships/generation-google-scholarship-apac/):** Selected as **one of the 70 scholars** for the 2021 Generation Google Scholarship (Asia Pacific region)
+- **[Google Code-In 2017](https://drive.google.com/file/d/0B11f3dEvKGEJSHM0NkVnMjVFaHotWUxVWmtZcmZYTHFMbnp3/view?usp=sharing):** **Finalist** with the Liquid Galaxy Lab open soruce organisation
 - **NTSE Scholar 2017:** Received scholarship during class XI and XII by the Government of Haryana
 
 ## Extra-Curriculars and Committees
