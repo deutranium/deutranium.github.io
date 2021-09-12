@@ -1,6 +1,6 @@
 ---
 title: "About"
-description: "Hugo, the world's fastest framework for building websites"
+description: "Kshitijaa Jaglan - CS Junior at IIIT Hyderabad, interested in Data Engineering, Data Science, Machine Learning and AI Ethics"
 date: "2019-02-28"
 aliases: ["about-us", "about-hugo", "contact"]
 author: "Kshitijaa Jaglan"
