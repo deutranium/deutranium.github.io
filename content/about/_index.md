@@ -9,7 +9,7 @@ author: "Kshitijaa Jaglan"
 *Would you like to build an ironman?*
 
 Hey fellow human/bot!\
-I am Kshitijaa Jaglan - an undergraduate research student at [International Insitute of Information Technology](https://www.iiit.ac.in/). My interests lie in AI/ML, ethics, philosophy, human computer interaction, open source, oh and yes definitely \[TW?\] [cats](https://cataas.com/cat/gif) too.
+I am Kshitijaa Jaglan - an undergraduate research student at [International Insitute of Information Technology](https://www.iiit.ac.in/). My interests lie in AI/ML, ethics, philosophy, data engineering, open source, oh and yes definitely \[TW?\] [cats](https://cataas.com/cat/gif) too.
 
 I am fascinated by everything space, quantum and cybersecurity. A related fun fact: In high school I found a vulnerability in the website of an educational event (in affiliation with some departments of the Government of India) which was leaking data of about 100k students *(don't sue me, I responsibly reported it XD)*. Apart from this, I also like to skate and waveboard at times and would always be up for cycling.
 
@@ -26,18 +26,23 @@ Now some formal stuff below:
     - Class XII: 94.8%
 
 ## Experience
-- **May 2021 - Present:** [Tensorflow](https://www.outreachy.org/alums/2021-05/) - *Outreachy Intern* \
-<sub>Worked on TensorFlow Extended Library for ML Pipeline systems</sub>
 
-- **February 2020 - Present:** [Indian School of Business, Hyderabad](https://diri.isb.edu/en/our-people.html) - *Research & Development Intern* \
-<sub>Data extraction and retrieval, data analysis, data science and visualisation</sub>
+- **February 2020 - Present:** [**Indian School of Business, Hyderabad**](https://diri.isb.edu/en/our-people.html) - *Research & Development Intern* \
+<sub>Spearheading data extraction and retrieval, data analysis, data science and visualisation as a part of Digital Identity and Research Initiative group (most recently in the [privacy](https://diri.isb.edu/en/research/privacy.html) domain) </sub>
+
+- **May 2021 - September 2021:** [**Tensorflow**](https://www.outreachy.org/alums/2021-05/) - *Outreachy Intern* \
+<sub>Implemented components for ML pipeline systems as a part of the TensorFlow Extended Library - [TFX](https://www.tensorflow.org/tfx) </sub>
+
+- **January 2021 - April 2021:** [**Major League Hacking**](https://fellowship.mlh.io/) - *MLH Fellow* \
+<sub>Worked in teams of 3 to create real world projects like [VSCode Extension for Spotify](https://github.com/larkinds/Spotify.MLH/), [Code Typewriter](https://github.com/deutranium/TypeWriter.MLH/), [Port Scanner](https://github.com/deutranium/Port-Scanner) etc. | Selected in a batch of 150 from over 10,000 applicants</sub>
+
+- **December 2020 - February 2021:** [**CAPTL**](https://www.linkedin.com/company/captl/about/) - *Frontend Developer* \
+<sub>Worked with the startup to create their SaaS platform from scratch in a team of two. Used React to produce various components and complete webapp based on the Figma mockups provided</sub>
 
 
-- **January 2021 - April 2021:** [Major League Hacking](https://fellowship.mlh.io/) - *MLH Fellow* \
-<sub>Selected in a batch of 150 from over 10,000 applicants</sub>
+- **December 2019 - April 2020:** [**CareYear**](https://github.com/careyear) - *Frontend Developer* \
+<sub>Implemented various visual algorithms related to mathematics, physics and computer science for a webapp to be used by educators to create animated educational videos.</sub>
 
-- **December 2020 - February 2021:** [CAPTL](https://www.linkedin.com/company/captl/about/) - *Frontend Developer*
-- **December 2019 - April 2020:** [CareYear](https://github.com/careyear) - *Frontend Developer*
 
 ## Projects
 You may view my projects **[here](/projects)**
