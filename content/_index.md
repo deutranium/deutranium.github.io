@@ -12,6 +12,9 @@ Hey fellow human/bot!\
 I am Kshitijaa Jaglan - an undergraduate research student at [International Insitute of Information Technology, Hyderabad](https://www.iiit.ac.in/). My interests lie in **AI+ML, data engineering, MLOps, open source**, oh and yes definitely \[TW?\] [cats](https://cataas.com/cat/gif) too.
 
 I made this website to help my recruiting journey for Summer'23 internships, but even otherwise, here you go!
+**Linkedin:** [https://www.linkedin.com/in/kshitijaa-jaglan/](https://www.linkedin.com/in/kshitijaa-jaglan/)
+**Github:** [https://github.com/deutranium/](https://github.com/deutranium/)
+**E-mail:** kshitijaa.jaglan@research.iiit.ac.in
 
 ## Education
 - **2019 - 2024 (expected):** International Institute of Information Technology, Hyderabad
