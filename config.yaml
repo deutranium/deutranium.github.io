@@ -37,8 +37,8 @@ markup:
 social:
   # e.g.
   github: https://github.com/deutranium/
-  twitter: your-github-link
-  stackoverflow: your-github-link
+  # twitter: your-github-link
+  # stackoverflow: your-github-link
   # facebook: your-facebook-link
 
 
