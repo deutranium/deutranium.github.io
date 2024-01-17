@@ -1,13 +1,11 @@
-+++
-author = "Kshitijaa Jaglan"
-title = "How to set up this website?"
-date = "2024-01-13"
-description = "A step-by-step guide to set up a website similar to the one you're on - trying to make it scalable to other Hugo theme"
-tags = [
-    "meta",
-]
-
-+++
+---
+author: Kshitijaa Jaglan
+title: How to set up this website?
+date: 2024-01-13
+description: A step-by-step guide to set up this blog(ish) website
+tags: ["meta"]
+draft: False
+---
 
 # How to (set up this website)?
 
@@ -61,3 +59,7 @@ Please note that the website would have some palceholder content if you followed
 
 ## 4. Enjoy :)
 Have some cold lemonade or hot chocolate depending on the how cold/hot it is outside your window!
+
+
+## 5. (Optional) Deploy on Github Pages
+Check out this wonderful tutorial by Hugo: [Host on Github Pages](https://gohugo.io/hosting-and-deployment/hosting-on-github/)

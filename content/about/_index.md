@@ -11,7 +11,7 @@ I am Kshitijaa Jaglan - a graduate research student at [International Insitute o
 
 Given enough food and time, I also enjoy making seemingly random tools out of boredom/utility. Check out [this](https://deutranium.github.io/Japanese-Practice/) if you want to learn [Hiragana](https://en.wikipedia.org/wiki/Hiragana), or [this](https://github.com/deutranium/WhatsApp-desktop-app) if you want a WhatsApp desktop app for Linux. 
 
-I made this website to help my recruiting journey, but even otherwise, here you go!
+Initially, I made this website to help with my recruiting journey, but even otherwise, here you go!
 
 **Linkedin:** [https://www.linkedin.com/in/kshitijaa-jaglan/](https://www.linkedin.com/in/kshitijaa-jaglan/) \
 **Github:** [https://github.com/deutranium/](https://github.com/deutranium/) \
@@ -50,28 +50,28 @@ Collaborated and created real world projects like [VSCode Extension for Spotify]
 
 - **CAPTL** - Frontend Developer\
 <sup>December 2020 - February 2021</sup>\
-Worked with the early stage [startup](https://www.linkedin.com/company/captl/about/) to create their SaaS platform from scratch in a team of two. Used React to implement different webapp components based on Figma mockups
+Worked with the early stage [startup](https://www.linkedin.com/company/captl/about/) to create their SaaS platform from scratch in a team of two. Used React to implement different webapp components based on Figma mockups.
 
 - **CareYear** - Frontend Developer\
 <sup>December 2019 - April 2020</sup>\
-Implemented different visual algorithms related to mathematics, physics and computer science for a webapp to be used by educators to create animated educational videos
+Implemented different visual algorithms related to mathematics, physics and computer science for a webapp that can be used by educators to create animated educational videos.
 
 ## Talks and Workshops
-- **Building Custom Components with Tensorflow Extended** at **[Google](https://about.google/)** on **July 21, 2022**. Slide deck and presentation for the same has been published on an internal website as a part of a global tech talks initiative!
-- **Introduction to MLOps and Tensorflow Exntended** at **[Felicity@IIIT-Hyderabad](https://felicity.iiit.ac.in/workshops)** on **March 20, 2022**. Presented as a part of college's annual tech and cultural fest!
+- **Building Custom Components with Tensorflow Extended** at **[Google](https://about.google/)** on **July 21, 2022**. Slide deck and presentation for the same have been published on an internal website for Global Tech Talks initiative!
+- **Introduction to MLOps and Tensorflow Exntended** at **[Felicity@IIIT-Hyderabad](https://felicity.iiit.ac.in/workshops)** on **March 20, 2022**. Presented as a part of college's annual tech and cultural fest - Felicity.
 
 <!-- ## Projects
 You may view my projects **[here](/projects)** -->
 
 ## Awards and Honours
-- **[Zonta International Women in Tech Scholar](https://www.zonta.org/Web/Programs/Education/Women_in_Technology_Scholarship.aspx):** One of the 20 scholars from all over the world!
+- **[Zonta International Women in Tech Scholar](https://www.zonta.org/Web/Programs/Education/Women_in_Technology_Scholarship.aspx):** One of 20 scholars from all over the world
 - **Merit List [Monsoon 2020]** at IIIT Hyderabad
 - **Merit List [Spring 2020]** at IIIT Hyderabad
-- **[vGHC Student Scholarship](https://ghc.anitab.org/attend/scholarships/academics/):** Selected as one of about 1300 scholars from all over the world to attend the (virtual) Grace Hopper Celebration 2021 organised by AnitaB.org
-- **[WiCyS (Women in CyberSecurity) Student Scholarship](https://www.wicys.org/events/wicys-2022/):** Selected as one of the 750 global scholars to attend the largest women in cybersecurity conference worldwide (WiCyS 2022) in Cleveland, OH. Could not attend due to COVID fears
-- **[Generation Google Scholar 2021](https://buildyourfuture.withgoogle.com/scholarships/generation-google-scholarship-apac/):** Selected as **one of the 70 scholars** for the 2021 Generation Google Scholarship (Asia Pacific region)
-- **[Google Code-In 2017](https://drive.google.com/file/d/0B11f3dEvKGEJSHM0NkVnMjVFaHotWUxVWmtZcmZYTHFMbnp3/view?usp=sharing):** **Finalist** with the Liquid Galaxy Lab open soruce organisation
-- **NTSE Scholar 2017:** Received scholarship during class XI and XII by the Government of Haryana
+- **[vGHC Student Scholarship](https://ghc.anitab.org/attend/scholarships/academics/):** Selected as one of ~1300 scholars from all over the world to attend the (virtual) Grace Hopper Celebration 2021 organised by AnitaB.org
+- **[WiCyS (Women in CyberSecurity) Student Scholarship](https://www.wicys.org/events/wicys-2022/):** Selected as one of 750 global scholars to attend the largest women in cybersecurity conference (WiCyS 2022) in Cleveland, OH. Could not attend due to COVID restrictions.
+- **[Generation Google Scholar 2021](https://buildyourfuture.withgoogle.com/scholarships/generation-google-scholarship-apac/):** Selected as **one of the 70 scholars** for 2021 Generation Google Scholarship (Asia Pacific region)
+- **[Google Code-In 2017](https://drive.google.com/file/d/0B11f3dEvKGEJSHM0NkVnMjVFaHotWUxVWmtZcmZYTHFMbnp3/view?usp=sharing):** **Global Finalist** with Liquid Galaxy Lab
+- **NTSE Scholar 2017:** Received scholarship from the Government of Haryana for classes XI and XII
 
 ## Extra-Curriculars and Committees
 - **September 2020 - January 2022:** [Open Source Developers' Group, IIIT Hyderabad](https://github.com/OSDG-IIITH) - *Administrator*
