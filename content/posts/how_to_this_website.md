@@ -9,7 +9,7 @@ draft: False
 
 # How to (set up this website)?
 
-I use a [fork](https://github.com/nodejh/hugo-theme-mini) of the Hugo theme [mini by nodejh](https://github.com/nodejh/hugo-theme-mini), only becuase I want to make a few customisations. Please feel free to use either as the setup steps would be the same :)
+I use a [fork](https://github.com/deutranium/hugo-theme-mini) of the Hugo theme [mini by nodejh](https://github.com/nodejh/hugo-theme-mini), only becuase I want to make a few customisations. Please feel free to use either as the setup steps would be the same :)
 
 ## 1. Pre-requisites
 Please ensure you have `hugo` installed on your system. If not, you may follow the installation instruction [here](https://gohugo.io/installation/).
