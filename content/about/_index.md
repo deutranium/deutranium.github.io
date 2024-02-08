@@ -7,15 +7,20 @@ enableComments = false
 +++
 
 
-I am Kshitijaa Jaglan - a graduate research student at [International Insitute of Information Technology, Hyderabad](https://www.iiit.ac.in/). My interests lie in **Networks (graphs), AI+ML, data engineering, MLOps, open source**, oh and yes definitely \[TW?\] [cats](https://cataas.com/cat/gif) too. 
+I am Kshitijaa Jaglan - a graduate research student at [International Insitute of Information Technology, Hyderabad](https://www.iiit.ac.in/). My interests lie in **Networks (graphs), AI+ML (and ethics), data engineering, MLOps, open source**, oh and yes definitely \[TW?\] [cats](https://cataas.com/cat/gif) too. 
 
 Given enough food and time, I also enjoy making seemingly random tools out of boredom/utility. Check out [this](https://deutranium.github.io/Japanese-Practice/) if you want to learn [Hiragana](https://en.wikipedia.org/wiki/Hiragana), or [this](https://github.com/deutranium/WhatsApp-desktop-app) if you want a WhatsApp desktop app for Linux. 
 
-Initially, I made this website to help with my recruiting journey, but even otherwise, here you go!
+**Fun fact:** I also discovered a bug leaking data of 100,000+ students (reported and mitigated). The data included personal information like address, phone number, email, parent's name etc. As you might've gotten a hint already, one of my other domains of interest is privacy (and fairness!).
 
-**Linkedin:** [https://www.linkedin.com/in/kshitijaa-jaglan/](https://www.linkedin.com/in/kshitijaa-jaglan/) \
+
+Going towards a formal introduction, please find a few details about my education and work history below! \
+Or, feel free to reach out at [kshitijaa.jaglan@research.iiit.ac.in](kshitijaa.jaglan@research.iiit.ac.in) for more info!
+<!-- Initially, I made this website to help with my recruiting journey, but even otherwise, here you go! -->
+
+<!-- **Linkedin:** [https://www.linkedin.com/in/kshitijaa-jaglan/](https://www.linkedin.com/in/kshitijaa-jaglan/) \
 **Github:** [https://github.com/deutranium/](https://github.com/deutranium/) \
-**E-mail:** kshitijaa.jaglan@research.iiit.ac.in
+**E-mail:** kshitijaa.jaglan@research.iiit.ac.in -->
 
 ## Education
 - **ETH Zurich** [Jul 2023 - Dec 2023]
@@ -25,9 +30,9 @@ Initially, I made this website to help with my recruiting journey, but even othe
 - **International Institute of Information Technology, Hyderabad** [2019-2024]
     - MS by Research in Computing in Human Sciences + B.Tech in Computer Science
     - Research Advisor: [Dr. Ponnurangam Kumaraguru "PK"](https://scholar.google.com/citations?user=MfzQyP8AAAAJ&hl=en)
-<!-- - **2017 - 2019:** Amity International School, Gurgaon
+- **Amity International School, Gurgaon** [2017 - 2019]
     - Class X: CGPA 10
-    - Class XII: 94.8% -->
+    - Class XII: 94.8%
 
 ## Experience
 
@@ -37,7 +42,7 @@ Engineered ETL (Extract, Transform, Load) data pipelines using Apache Beam and D
 
 - **Tensorflow** ([Outreachy](https://www.outreachy.org/alums/2021-05/)) - Software Engineering Intern \
 <sup>May 2021 - September 2021</sup>\
-Designed additional components like feature selection and schema curation for TFX ML pipelines to address use cases not
+Designed components like feature selection and schema curation for TFX ML pipelines to address use cases not
 currently covered by [TFX](https://www.tensorflow.org/tfx).
 
 - **Indian School of Business** - Research & Development Intern\
