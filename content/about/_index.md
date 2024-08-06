@@ -7,7 +7,7 @@ enableComments = false
 +++
 
 
-I am Kshitijaa Jaglan - a graduate research student at [International Insitute of Information Technology, Hyderabad](https://www.iiit.ac.in/). My interests lie in **Networks (graphs), AI+ML (and ethics), data engineering, MLOps, open source**, oh and yes definitely \[TW?\] [cats](https://cataas.com/cat/gif) too. 
+I am Kshitijaa Jaglan - a PhD student at [Social Computing Group, University of Zürich](https://www.ifi.uzh.ch/en/scg). My interests lie in **Networks (graphs), AI+ML (and ethics), data engineering, MLOps, open source**, oh and yes definitely \[TW?\] [cats](https://cataas.com/cat/gif) too. 
 
 Given enough food and time, I also enjoy making seemingly random tools out of boredom/utility. Check out [this](https://deutranium.github.io/Japanese-Practice/) if you want to learn [Hiragana](https://en.wikipedia.org/wiki/Hiragana), or [this](https://github.com/deutranium/WhatsApp-desktop-app) if you want a WhatsApp desktop app for Linux. 
 
@@ -23,13 +23,16 @@ Or, feel free to reach out at [kshitijaa.jaglan@research.iiit.ac.in](kshitijaa.j
 **E-mail:** kshitijaa.jaglan@research.iiit.ac.in -->
 
 ## Education
-- **ETH Zurich** [Jul 2023 - Dec 2023]
-    - Project mobility student working on predicting hidden user attributes in networks under [Prof. Ulrik Brandes](https://scholar.google.de/citations?user=fmmZrwgAAAAJ&hl=en)
-    - **Project grant:** [Homophily and Spread of (Dis)Information in Social Media](https://data.snf.ch/grants/grant/209488)
-    - **Pubication:** [Tight Sampling in Unbounded Networks](https://arxiv.org/abs/2310.02859.pdf). Accepted at ICWSM’ 24
+- **University of Zürich** [2024-]
+    - PhD student at [Social Computing Group](https://www.ifi.uzh.ch/en/scg.html)
+    - PhD Advisor: [Prof. Dr. Anikó Hannák](https://www.ifi.uzh.ch/en/scg/people/hannak.html)
 - **International Institute of Information Technology, Hyderabad** [2019-2024]
-    - MS by Research in Computing in Human Sciences + B.Tech in Computer Science
-    - Research Advisor: [Dr. Ponnurangam Kumaraguru "PK"](https://scholar.google.com/citations?user=MfzQyP8AAAAJ&hl=en)
+    - MS by Research in Computing in Human Sciences + B.Tech in Computer Science (Thesis: [Sampling Cohesive communities in unbounded networks](https://web2py.iiit.ac.in/research_centres/publications/view_publication/mastersthesis/1471))
+    - Research Advisor: [Prof. Dr. Ponnurangam Kumaraguru "PK"](https://scholar.google.com/citations?user=MfzQyP8AAAAJ&hl=en)
+- **ETH Zurich** [Jul 2023 - Dec 2023]
+    - Project mobility student working on predicting hidden user attributes in networks under [Prof. Dr. Ulrik Brandes](https://scholar.google.de/citations?user=fmmZrwgAAAAJ&hl=en)
+    - **Project grant:** [Homophily and Spread of (Dis)Information in Social Media](https://data.snf.ch/grants/grant/209488)
+    - **Publication:** [Tight Sampling in Unbounded Networks](https://arxiv.org/abs/2310.02859.pdf). Accepted at ICWSM’ 24
 - **Amity International School, Gurgaon** [2017 - 2019]
     - Class X: CGPA 10
     - Class XII: 94.8%
