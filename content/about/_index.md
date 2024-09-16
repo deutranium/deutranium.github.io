@@ -15,7 +15,7 @@ Given enough food and time, I also enjoy making seemingly random tools out of bo
 
 
 Going towards a formal introduction, please find a few details about my education and work history below! \
-Or, feel free to reach out at [kshitijaa.jaglan@research.iiit.ac.in](kshitijaa.jaglan@research.iiit.ac.in) for more info!
+Or, feel free to reach out at [kjaglan[at ]ifi[d0t]uzh{dot}ch]() for more info!
 <!-- Initially, I made this website to help with my recruiting journey, but even otherwise, here you go! -->
 
 <!-- **Linkedin:** [https://www.linkedin.com/in/kshitijaa-jaglan/](https://www.linkedin.com/in/kshitijaa-jaglan/) \
