@@ -82,10 +82,9 @@ You may view my projects **[here](/projects)** -->
 - **NTSE Scholar 2017:** Received scholarship from the Government of Haryana for classes XI and XII
 
 ## Extra-Curriculars and Committees
-- **September 2020 - January 2022:** [Open Source Developers' Group, IIIT Hyderabad](https://github.com/OSDG-IIITH) - *Administrator*
-- **December 2019 - May 2021:** [E-Cell, IIIT Hyderabad](https://ecell.iiit.ac.in/) - *Full Stack Developer*
-- **June 2021 - December 2020:** [Ping! IIIT Hyderabad](https://pingiiit.org/) - *Web Administrator*
-- **Aug 2019 - June 2020:** [Ping! IIIT Hyderabad](https://pingiiit.org/) - *Full Stack Developer*
+- **September 2020 - January 2022:** [Open Source Developers' Group, IIIT Hyderabad](https://github.com/OSDG-IIITH) - *President*
+- **December 2019 - May 2021:** [E-Cell, IIIT Hyderabad](https://ecell.iiit.ac.in/) - *Full Stack Developer -> Tech lead*
+- **Aug 2019 - June 2021:** [Ping! IIIT Hyderabad](https://pingiiit.org/) - *Full Stack Developer -> Tech lead*
 
 ## Volunteering
 - **[Vyartharth](https://www.facebook.com/vyartharthYP/) (2018-2019):** Co-Founder -- Efficient Waste Management ‑ 100+ volunteers ‑ 200+ activities ‑ with 10+ NGOs
