@@ -80,8 +80,10 @@ params:
   # Extra links in navigation
   links:
     ## e.g.
-    # - name: Project
-    #   path: /project
+    - name: Short CV
+      path: /short_cv
+    - name: Blog
+      path: /blog
 
   # You can put your custom css and js to `static` directory, or use remote css and js files which start with `http://` or `https://`
   customCSS:
