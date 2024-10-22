@@ -24,6 +24,10 @@ This blog helps me keep a track of various resources I come across. Welcome to o
 ### Productivity
 1. [Übersicht](https://tracesof.net/uebersicht/): Add widgets to your desktop. You can find the ones I use [here](https://github.com/deutranium/Ubersicht-Widgets/)
 
+## Misc
+1. [w3m](https://w3m.sourceforge.net): a light weight text-based web browser
+2. [Lynx](http://lynx.browser.org): THE text-based web browser
+
 
 <!-- ## Networks
 
