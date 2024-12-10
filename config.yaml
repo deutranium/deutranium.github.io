@@ -9,6 +9,8 @@ defaultContentLanguage: en
 # !!! exampleSite only, you may need to delete the line: `themesDir: ../../` 
 themesDir: ./themes/
 
+# contentDir: ./content/posts
+
 hasCJKLanguage: true
 permalinks:
   posts: /posts/:title/
@@ -84,6 +86,8 @@ params:
       path: /short_cv
     - name: Blog
       path: /blog
+    # - name: About
+    #   path: /
 
   # You can put your custom css and js to `static` directory, or use remote css and js files which start with `http://` or `https://`
   customCSS:

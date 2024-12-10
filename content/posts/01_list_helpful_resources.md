@@ -1,10 +1,10 @@
 ---
-author: Kshitijaa Jaglan
 title: List of helpful resources
 date: 2024-01-17
 description: A few resources I occasionally refer to/found interesting
 tags: ["misc"]
 draft: False
+
 ---
 
 This blog helps me keep a track of various resources I come across. Welcome to ordered chaos :)
@@ -28,6 +28,8 @@ This blog helps me keep a track of various resources I come across. Welcome to o
 1. [w3m](https://w3m.sourceforge.net): a light weight text-based web browser
 2. [Lynx](http://lynx.browser.org): THE text-based web browser
 
+## Cool blogs/channels etc.
+1. [Lunation Lab](https://www.lunationlab.com): Cool stuff with design that makes sense
 
 <!-- ## Networks
 

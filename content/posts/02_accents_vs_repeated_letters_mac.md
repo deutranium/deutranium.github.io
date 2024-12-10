@@ -1,10 +1,10 @@
 ---
-author: Kshitijaa Jaglan
 title: Switch between accents and repeated letters on mac
 date: 2024-08-06
 description: Choose what behaviour you want when you long press a key on Mac
 tags: ["mac"]
 draft: False
+
 ---
 
 Mac offers the functionality to type [accented](https://support.apple.com/guide/mac-help/enter-characters-with-accent-marks-on-mac-mh27474/mac) (is that a real word?) letters directly through keyboard by showing an accent menu like the following if you long press a key.

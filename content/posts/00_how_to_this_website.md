@@ -1,10 +1,10 @@
 ---
-author: Kshitijaa Jaglan
 title: How to set up this website?
 date: 2024-01-13
 description: A step-by-step guide to set up this blog(ish) website
 tags: ["meta"]
 draft: False
+
 ---
 
 # How to (set up this website)?
