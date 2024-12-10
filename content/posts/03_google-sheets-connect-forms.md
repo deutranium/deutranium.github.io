@@ -8,9 +8,9 @@ draft: False
 ---
 
 ## Story time
-For a project, we need to get some data annotated by, well, humans. Using Google Sheets is the easiest and probably the simplest way, but Google Forms seems to be have _better vibes_ (?) when it comes ot human annotation? Out of the following options,
+For a project, we need to get some data annotated by, well, humans. Using Google Sheets is the easiest and probably the simplest way, but Google Forms seems to be have _better vibes_ (?) when it comes to human annotation? Out of the following options,
 1. Every annotator has a column/sheet in a sheet/spreadsheet where they enter the label of corresponding data point
-2. There is a form where you see one data point at a time, and press enter to navigate to the next data point
+2. There is a form where you see one data point at a time, label it, and move to the next one
 
 I would argue that option #2 is better as the data points seem _independent_ + the annotators would not be influenced by responses from other annotators. Of course there are other ways like making copies of the google sheet and sharing one per annotator, or using some platform specifically made for annotation stuff, and yada yada.. BUT, why can't we just use the good old google forms and connect it to the sheet which already has all the data? I was really hoping for having such a functionality as a plug-and-play thing in google sheets itself, but guess not :') There are a few add-ons that seeeeeeem to get the job done, but I wanted to try creating something on my own instead :P
 Plus, I haven't worked with JS or Apps Script in a while, so this seemed to be a good excuse to brush up those skills as well!
