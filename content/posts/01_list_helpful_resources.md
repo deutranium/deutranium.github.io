@@ -13,6 +13,10 @@ This blog helps me keep a track of various resources I come across. Welcome to o
 ### Papers
 1.  -->
 
+## Understanding terms and concepts
+1. **Context Free Grammar**: [This slide deck](https://web.stanford.edu/class/archive/cs/cs103/cs103.1252/lectures/19/Lecture%20Slides.pdf) from Stanford's [CS103: Mathematical Foundations of Computing
+](https://web.stanford.edu/class/cs103/)
+
 ## Python tools
 1. [tqdm](https://pypi.org/project/tqdm/): progress bar but better
 
