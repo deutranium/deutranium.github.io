@@ -22,6 +22,10 @@ Given enough food and time, I also enjoy making seemingly random tools out of bo
 <table>
 <tbody>
   <tr>
+    <th>January 2025</th>
+    <td>Our paper titled "<a href="https://openreview.net/pdf?id=GDN5cFTNaL" target="_blank" rel="noopener noreferrer">Adjacency Search Embeddings</a>" is accepted at <b>TMLR</b></td>
+  </tr>
+  <tr>
     <th>October 2024</th>
     <td>I'll be attending <a href="https://acmrecsys.github.io/rsss2024/" target="_blank" rel="noopener noreferrer">ACM Europe School on Recommender systems</a> at Bari, Italy from October 8th to 13th. Feel free to hmu for a chat!</td>
   </tr>
