@@ -22,6 +22,10 @@ Given enough food and time, I also enjoy making seemingly random tools out of bo
 <table>
 <tbody>
   <tr>
+    <th>April 2025</th>
+    <td>View the slides for my lecture on Data Visualization in the Social Computing Course <a href="https://www.canva.com/design/DAGkrvIP2qI/Shvk5wShSAPq6cl4KcNujQ/edit?utm_content=DAGkrvIP2qI" target="_blank" rel="noopener noreferrer">Here</a></td>
+  </tr>
+  <tr>
     <th>January 2025</th>
     <td>Our paper titled "<a href="https://openreview.net/pdf?id=GDN5cFTNaL" target="_blank" rel="noopener noreferrer">Adjacency Search Embeddings</a>" is accepted at <b>TMLR</b></td>
   </tr>
