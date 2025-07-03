@@ -23,7 +23,7 @@ Given enough food and time, I also enjoy making seemingly random tools out of bo
 <tbody>
   <tr>
     <th>April 2025</th>
-    <td>View the slides for my lecture on Data Visualization in the Social Computing Course <a href="https://www.canva.com/design/DAGkrvIP2qI/Shvk5wShSAPq6cl4KcNujQ/edit?utm_content=DAGkrvIP2qI" target="_blank" rel="noopener noreferrer">Here</a></td>
+    <td>View the slides for my lecture on Data Visualization in the Social Computing Course <a href="https://www.canva.com/design/DAGkrvIP2qI/Shvk5wShSAPq6cl4KcNujQ/edit?utm_content=DAGkrvIP2qI" target="_blank" rel="noopener noreferrer">here</a></td>
   </tr>
   <tr>
     <th>January 2025</th>
