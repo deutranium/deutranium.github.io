@@ -22,32 +22,40 @@ Given enough food and time, I also enjoy making seemingly random tools out of bo
 <table>
 <tbody>
   <tr>
+    <th>July 2025</th>
+    <td>View the <b>slides</b> for my <b>talk</b> on <a href="https://ep2025.europython.eu/session/what-network-analysis-tells-us-about-trades-hierarchies-and-the-world" target="_blank">"What Network Analysis tells us about Trades, Hierarchies, and the World?"</a> at EuroPython <a href="https://www.canva.com/design/DAGtZaqdPgQ/GMKmGjTweEKOogjMbVTTDA/view" target="_blank">here</a>.</td>
+  </tr>
+  <tr>
+    <th>July 2025</th>
+    <td>Attended <a href="https://ep2025.europython.eu" target="_blank" rel="noopener"><b>EuroPython</b></a> as a <b>participant, <a href="https://ep2025.europython.eu/speaker/kshitijaa-jaglan/" target="_blank" rel="noopener">speaker</a> and <a href="https://ep2025.europython.eu/about/#-sponsors-team" target="_blank">organiser</a></b> in sunny Prague from 14th to 20th July.</td>
+  </tr>
+  <tr>
     <th>April 2025</th>
-    <td>View the slides for my lecture on Data Visualization in the Social Computing Course <a href="https://www.canva.com/design/DAGkrvIP2qI/Shvk5wShSAPq6cl4KcNujQ/edit?utm_content=DAGkrvIP2qI" target="_blank" rel="noopener noreferrer">here</a></td>
+    <td>View the slides for my lecture on Data Visualization in the Social Computing Course <a href="https://www.canva.com/design/DAGkrvIP2qI/Shvk5wShSAPq6cl4KcNujQ/edit?utm_content=DAGkrvIP2qI" target="_blank" rel="noopener">here</a>.</td>
   </tr>
   <tr>
     <th>January 2025</th>
-    <td>Our paper titled "<a href="https://openreview.net/pdf?id=GDN5cFTNaL" target="_blank" rel="noopener noreferrer">Adjacency Search Embeddings</a>" is accepted at <b>TMLR</b></td>
+    <td>Our paper titled "<a href="https://openreview.net/pdf?id=GDN5cFTNaL" target="_blank" rel="noopener">Adjacency Search Embeddings</a>" is accepted at <b>TMLR</b>.</td>
   </tr>
   <tr>
     <th>October 2024</th>
-    <td>I'll be attending <a href="https://acmrecsys.github.io/rsss2024/" target="_blank" rel="noopener noreferrer">ACM Europe School on Recommender systems</a> at Bari, Italy from October 8th to 13th. Feel free to hmu for a chat!</td>
+    <td>I'll be attending <a href="https://acmrecsys.github.io/rsss2024/" target="_blank" rel="noopener">ACM Europe School on Recommender systems</a> at Bari, Italy from October 8th to 13th. Feel free to hmu for a chat!</td>
   </tr>
   <tr>
     <th>July 2024</th>
-    <td>Joined <a href="https://www.ifi.uzh.ch/en/scg.html" target="_blank" rel="noopener noreferrer">Social Computing Group @ Uni of Zurich</a> as a <span style="font-weight:bold">PhD student</span>!</td>
+    <td>Joined <a href="https://www.ifi.uzh.ch/en/scg.html" target="_blank" rel="noopener">Social Computing Group @ Uni of Zurich</a> as a <b>PhD student</b>!</td>
   </tr>
   <tr>
     <th>June 2024</th>
-    <td>Successfully <span style="font-weight:bold">defended my </span><a href="https://web2py.iiit.ac.in/research_centres/publications/view_publication/mastersthesis/1471" target="_blank" rel="noopener noreferrer">MS thesis</a> titled "Sampling Cohesive Communities in Unbounded Networks"</td>
+    <td>Successfully <b>defended my </b><a href="https://web2py.iiit.ac.in/research_centres/publications/view_publication/mastersthesis/1471" target="_blank" rel="noopener">MS thesis</a> titled "Sampling Cohesive Communities in Unbounded Networks".</td>
   </tr>
   <tr>
     <th>April 2024</th>
-    <td>Our paper titled "<a href="https://ojs.aaai.org/index.php/ICWSM/article/view/31345/33505" target="_blank" rel="noopener noreferrer">Tight Sampling in Unbounded Networks</a>" is <span style="font-weight:bold">accepted at ICWSM'24</span></td>
+    <td>Our paper titled "<a href="https://ojs.aaai.org/index.php/ICWSM/article/view/31345/33505" target="_blank" rel="noopener">Tight Sampling in Unbounded Networks</a>" is <b>accepted at ICWSM'24</b>.</td>
   </tr>
   <tr>
     <th>July 2023</th>
-    <td>I'll be <span style="font-weight:bold">spending Fall semester</span> as a mobility project student at <a href="https://sn.ethz.ch/" target="_blank" rel="noopener noreferrer">SNLab@ETH Zürich</a>, working under the guidance of <a href="https://gess.ethz.ch/en/the-department/people/person-detail.html?persid=239462" target="_blank" rel="noopener noreferrer">Prof. Ulrik Brandes</a><br></td>
+    <td>I'll be <b>spending Fall semester</b> as a mobility project student at <a href="https://sn.ethz.ch/" target="_blank" rel="noopener">SNLab@ETH Zürich</a>, working under the guidance of <a href="https://gess.ethz.ch/en/the-department/people/person-detail.html?persid=239462" target="_blank" rel="noopener">Prof. Ulrik Brandes</a>.<br></td>
   </tr>
 </tbody></table>
 
