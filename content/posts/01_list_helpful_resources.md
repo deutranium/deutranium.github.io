@@ -36,6 +36,15 @@ This blog helps me keep a track of various resources I come across. Welcome to o
 ### Adding features to Hugo
 1. [Font Awesome in Hugo](https://matze.rocks/posts/fontawesome_in_hugo/)
 
+
+---
+
+## Why would you do this ..
+(My way of protesting for/against some things:)
+#### .. StackOverflow
+1. [Will you help build our new visual identity?
+](https://meta.stackexchange.com/questions/411312/will-you-help-build-our-new-visual-identity?cb=1)
+
 <!-- ## Networks
 
 ### Networks/datasets I want to explore
