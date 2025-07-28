@@ -31,6 +31,7 @@ This blog helps me keep a track of various resources I come across. Welcome to o
 
 ## Cool blogs/channels etc.
 1. [Lunation Lab](https://www.lunationlab.com): Cool stuff with design that makes sense
+2. [Visuzalizing Algorithms by Mike Bostock](https://bost.ocks.org/mike/algorithms/): Check out their main blog ([old](https://bost.ocks.org/mike/) and [new](https://observablehq.com/@mbostock)) for some very cool and beautiful insights.
 
 ## Meta
 ### Adding features to Hugo
