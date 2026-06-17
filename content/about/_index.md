@@ -6,7 +6,7 @@ author = "Kshitijaa Jaglan"
 enableComments = false
 +++
 
-I am Kshitijaa Jaglan - a PhD student at [Social Computing Group, University of Zürich](https://www.ifi.uzh.ch/en/scg). My interests lie in **Networks (graphs), AI+ML, and using tech-y stuff for social good**. Oh and yes definitely \[TW?\] [cats](https://cataas.com/cat/gif) too. 
+I am Kshitijaa Jaglan - founding engineer at a seed stage three person startup. Beautiful thing that comes with being at such an early stage company is I get to work on different things that come with different customers and pivots. So far I've dabbled with muti-agent pipelines, agentic evals, creating RL environments, and lately efficient inference. In general, my interests lie in **Networks (graphs), AI+ML, and building nice systems**. Oh and yes definitely \[TW?\] [cats](https://cataas.com/cat/gif) too. 
 
 Given enough food and time, I also enjoy making seemingly random tools out of boredom/utility. Check out [this](https://deutranium.github.io/Japanese-Practice/) if you want to learn [Hiragana](https://en.wikipedia.org/wiki/Hiragana), or [this](https://github.com/deutranium/WhatsApp-desktop-app) if you want a WhatsApp desktop app for Linux. 
 
