@@ -63,4 +63,4 @@ Given enough food and time, I also enjoy making seemingly random tools out of bo
 
 <details><summary><b>Fun fact:</b></summary> I also discovered a bug leaking data of 100,000+ students (reported and mitigated). The data included personal information like address, phone number, email, parent's name etc. As you might've gotten a hint already, one of my other domains of interest is privacy (and fairness!). </details>
 
-Feel free to reach out at [kjaglan[at ]ifi[d0t]uzh{dot}ch]() if you would want to have a chat about anything!
+Feel free to reach out at [kshitijaajaglan101[at ]gmail.com]() if you'd like chat about anything!
