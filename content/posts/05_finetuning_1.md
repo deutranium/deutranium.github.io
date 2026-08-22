@@ -1,15 +1,15 @@
 ---
-title: Don't use big models for specific tasks
+title: Making LLMs better at puzzles
 date: 2026-08-22
-description: Best case, we discover a new optimized method. Worst case, we learn about the current optimizations. Either way, sounds like a win to me.
-tags: ["programming"]
+description: I'd like to see how close we can get the small finetuned models to frontier LLMs for track tracks puzzles.
+tags: ["llms", "finetuning-series"]
 draft: False
 
 ---
 
 As someone who works in inference, I'm not a fan of how every user needs GBs and GBs of KV cache. I still remember the days when one 8GB Sandisk pen drive was the maximum I had for portable storage, and seeing how one session of Gemma 4 31B needs two such pen drives for cache is just ....sad.
 
-Towards our unified goal of optimizing compute, I'll now try to figure out how easy/difficult it can really be to finetune a model. I'll have a series of blog posts over the next few weeks covering the following: 
+Towards our unified goal of optimizing compute, I'll now try to figure out how easy/difficult it can really be to finetune a model for a specific (set of) task. I'll have a series of blog posts over the next few weeks covering the following: 
 
 Part 1
 1. Defining the task, getting (high quality) data. Spoiler alert: it's [train tracks puzzles](https://puzzlemadness.co.uk/traintracks/medium).
