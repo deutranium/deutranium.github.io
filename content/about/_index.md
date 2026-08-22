@@ -22,6 +22,22 @@ Given enough food and time, I also enjoy making seemingly random tools out of bo
 <table>
 <tbody>
   <tr>
+    <th>July 2026</th>
+    <td>Organized <a href="https://ep2026.europython.eu">EuroPython 2026</a>, also leading sponsorships.</td>
+  </tr>
+  <tr>
+    <th>January 2026</th>
+    <td>Joined a Palo Alto based startup as their first engineer.</td>
+  </tr>
+  <tr>
+    <th>December 2025</th>
+    <td>Dropped out of my PhD from University of Zürich</td>
+  </tr>
+  <tr>
+    <th>October 2025</th>
+    <td>Thanks Meta for <a href="https://x.com/deutranium/status/1985115678622335027">inviting me</a> to their first ever PhD Forum at Menlo Park :)</td>
+  </tr>
+  <tr>
     <th>July 2025</th>
     <td>View the <b>slides</b> for my <b>talk</b> on <a href="https://ep2025.europython.eu/session/what-network-analysis-tells-us-about-trades-hierarchies-and-the-world" target="_blank">"What Network Analysis tells us about Trades, Hierarchies, and the World?"</a> at EuroPython <a href="https://www.canva.com/design/DAGtZaqdPgQ/GMKmGjTweEKOogjMbVTTDA/view" target="_blank">here</a>.</td>
   </tr>
@@ -43,7 +59,7 @@ Given enough food and time, I also enjoy making seemingly random tools out of bo
   </tr>
   <tr>
     <th>July 2024</th>
-    <td>Joined <a href="https://www.ifi.uzh.ch/en/scg.html" target="_blank" rel="noopener">Social Computing Group @ Uni of Zurich</a> as a <b>PhD student</b>!</td>
+    <td>Joined <a href="https://www.ifi.uzh.ch/en/scg.html" target="_blank" rel="noopener">Social Computing Group @ Uni of Zürich</a> as a <b>PhD student</b>!</td>
   </tr>
   <tr>
     <th>June 2024</th>
