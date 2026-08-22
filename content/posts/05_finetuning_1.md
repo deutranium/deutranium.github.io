@@ -1,7 +1,7 @@
 ---
 title: Making LLMs better at puzzles
 date: 2026-08-22
-description: I'd like to see how close we can get the small finetuned models to frontier LLMs for track tracks puzzles.
+description: I'd like to see how close we can get the small finetuned models to frontier LLMs for train tracks puzzles.
 tags: ["llms", "finetuning-series"]
 draft: False
 
