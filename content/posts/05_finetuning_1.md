@@ -7,7 +7,7 @@ draft: False
 
 ---
 
-As someone who works in inference, I'm not a fan of how every user needs GBs and GBs of KV cache. I still remember the days when one 8GB Sandisk pen drive was the maximum I had for portable storage, and seeing how one session of Gemma 4 31B needs two such pen drives for cache is just ....sad.
+As someone who works in inference, I'm not a fan of how every user needs GBs and GBs of KV cache. I still remember the days when one 8GB Sandisk pen drive was the maximum I had for portable storage, and seeing how one session of Gemma 4 31B needs two such pen drives is just ....sad.
 
 Towards our unified goal of optimizing compute, I'll now try to figure out how easy/difficult it can really be to finetune a model for a specific (set of) task. I'll have a series of blog posts over the next few weeks covering the following: 
 
