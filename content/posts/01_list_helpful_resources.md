@@ -29,9 +29,12 @@ This blog helps me keep a track of various resources I come across. Welcome to o
 1. [w3m](https://w3m.sourceforge.net): a light weight text-based web browser
 2. [Lynx](http://lynx.browser.org): THE text-based web browser
 
-## Cool blogs/channels etc.
+## Cool blogs/channels/questions etc.
 1. [Lunation Lab](https://www.lunationlab.com): Cool stuff with design that makes sense
 2. [Visuzalizing Algorithms by Mike Bostock](https://bost.ocks.org/mike/algorithms/): Check out their main blog ([old](https://bost.ocks.org/mike/) and [new](https://observablehq.com/@mbostock)) for some very cool and beautiful insights.
+3. [Why do we use xW^T + b instead of Wx+b?](https://stackoverflow.com/questions/40642732/machine-learning-why-xwb-instead-of-wxb)
+4. [Tensortonic](https://www.tensortonic.com/): Great resource for praticing ML/DL/NumPy/PyTorch/and more things that they keep adding
+5. [Work with the garage door up](https://notes.andymatuschak.org/zCMhncA1iSE74MKKYQS5PBZ)
 
 ## Meta
 ### Adding features to Hugo
@@ -45,6 +48,7 @@ This blog helps me keep a track of various resources I come across. Welcome to o
 #### .. StackOverflow
 1. [Will you help build our new visual identity?
 ](https://meta.stackexchange.com/questions/411312/will-you-help-build-our-new-visual-identity?cb=1)
+
 
 <!-- ## Networks
 
