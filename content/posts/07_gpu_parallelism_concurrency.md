@@ -1,5 +1,5 @@
 ---
-title: "[Rabbit hole] Threads in a GPU - Parallelism and Concurrency"
+title: "Threads in a GPU - Parallelism and Concurrency"
 date: 2026-08-24
 description: Why can H100 have over 250,000 concurrent threads and 16,000 parallel threads?
 tags: ["gpu", "rabbit-hole"]
